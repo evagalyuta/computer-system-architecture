@@ -1,0 +1,5 @@
+Container contains 4 elements. :
+It is Parallelepiped: a = 10, b = 1, c = 6, density = 0.88. Square = 152.00 :
+It is Sphere: radius = 5, density = 0.45. Square = 314.16 :
+It is Sphere: radius = 8, density = 0.30. Square = 804.25 :
+It is Parallelepiped: a = 10, b = 14, c = 19, density = 0.86. Square = 1192.00
