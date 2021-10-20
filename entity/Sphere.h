@@ -26,9 +26,6 @@ class Sphere : public Shape {
 
   // Get square of surface of sphere.
   virtual double Square();
-
-  // Destructor.
-  virtual ~Sphere() = default;
 };
 
 #endif

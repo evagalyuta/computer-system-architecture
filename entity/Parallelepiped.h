@@ -25,9 +25,6 @@ class Parallelepiped : public Shape {
 
   // Get square of surface of parallelepiped.
   virtual double Square();
-
-  // Destructor.
-  virtual ~Parallelepiped() = default;
 };
 
 #endif

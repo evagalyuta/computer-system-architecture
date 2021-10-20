@@ -31,9 +31,6 @@ class Shape {
 
   // Get square of figure.
   virtual double Square() = 0;
-
-  // Destructor.
-  virtual ~Shape() = default;
 };
 
 #endif

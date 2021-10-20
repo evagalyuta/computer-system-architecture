@@ -26,9 +26,6 @@ class Tetrahedron : public Shape {
 
   // Get square of surface of tetrahedron.
   virtual double Square();
-
-  // Destructor.
-  virtual ~Tetrahedron() = default;
 };
 
 #endif
