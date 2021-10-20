@@ -66,57 +66,57 @@ include CMakeFiles/task01.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/task01.dir/flags.make
 
-CMakeFiles/task01.dir/Parallelepiped.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Parallelepiped.cpp.o: ../Parallelepiped.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task01.dir/Parallelepiped.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Parallelepiped.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp
+CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o: ../entity/Parallelepiped.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.cpp
 
-CMakeFiles/task01.dir/Parallelepiped.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Parallelepiped.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp > CMakeFiles/task01.dir/Parallelepiped.cpp.i
+CMakeFiles/task01.dir/entity/Parallelepiped.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/entity/Parallelepiped.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.cpp > CMakeFiles/task01.dir/entity/Parallelepiped.cpp.i
 
-CMakeFiles/task01.dir/Parallelepiped.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Parallelepiped.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp -o CMakeFiles/task01.dir/Parallelepiped.cpp.s
+CMakeFiles/task01.dir/entity/Parallelepiped.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Parallelepiped.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.cpp -o CMakeFiles/task01.dir/entity/Parallelepiped.cpp.s
 
-CMakeFiles/task01.dir/Sphere.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Sphere.cpp.o: ../Sphere.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/task01.dir/Sphere.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Sphere.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Sphere.cpp
+CMakeFiles/task01.dir/entity/Sphere.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/entity/Sphere.cpp.o: ../entity/Sphere.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/task01.dir/entity/Sphere.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/entity/Sphere.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.cpp
 
-CMakeFiles/task01.dir/Sphere.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Sphere.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Sphere.cpp > CMakeFiles/task01.dir/Sphere.cpp.i
+CMakeFiles/task01.dir/entity/Sphere.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/entity/Sphere.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.cpp > CMakeFiles/task01.dir/entity/Sphere.cpp.i
 
-CMakeFiles/task01.dir/Sphere.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Sphere.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Sphere.cpp -o CMakeFiles/task01.dir/Sphere.cpp.s
+CMakeFiles/task01.dir/entity/Sphere.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Sphere.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.cpp -o CMakeFiles/task01.dir/entity/Sphere.cpp.s
 
-CMakeFiles/task01.dir/Shape.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Shape.cpp.o: ../Shape.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/task01.dir/Shape.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Shape.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Shape.cpp
+CMakeFiles/task01.dir/entity/Shape.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/entity/Shape.cpp.o: ../entity/Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/task01.dir/entity/Shape.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/entity/Shape.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/entity/Shape.cpp
 
-CMakeFiles/task01.dir/Shape.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Shape.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Shape.cpp > CMakeFiles/task01.dir/Shape.cpp.i
+CMakeFiles/task01.dir/entity/Shape.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/entity/Shape.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/entity/Shape.cpp > CMakeFiles/task01.dir/entity/Shape.cpp.i
 
-CMakeFiles/task01.dir/Shape.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Shape.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Shape.cpp -o CMakeFiles/task01.dir/Shape.cpp.s
+CMakeFiles/task01.dir/entity/Shape.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Shape.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Shape.cpp -o CMakeFiles/task01.dir/entity/Shape.cpp.s
 
-CMakeFiles/task01.dir/Container.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Container.cpp.o: ../Container.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/task01.dir/Container.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Container.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Container.cpp
+CMakeFiles/task01.dir/entity/Container.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/entity/Container.cpp.o: ../entity/Container.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/task01.dir/entity/Container.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/entity/Container.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp
 
-CMakeFiles/task01.dir/Container.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Container.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Container.cpp > CMakeFiles/task01.dir/Container.cpp.i
+CMakeFiles/task01.dir/entity/Container.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/entity/Container.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp > CMakeFiles/task01.dir/entity/Container.cpp.i
 
-CMakeFiles/task01.dir/Container.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Container.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Container.cpp -o CMakeFiles/task01.dir/Container.cpp.s
+CMakeFiles/task01.dir/entity/Container.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Container.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp -o CMakeFiles/task01.dir/entity/Container.cpp.s
 
 CMakeFiles/task01.dir/main.cpp.o: CMakeFiles/task01.dir/flags.make
 CMakeFiles/task01.dir/main.cpp.o: ../main.cpp
@@ -131,18 +131,18 @@ CMakeFiles/task01.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/main.cpp -o CMakeFiles/task01.dir/main.cpp.s
 
-CMakeFiles/task01.dir/Tetrahedron.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Tetrahedron.cpp.o: ../Tetrahedron.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/task01.dir/Tetrahedron.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Tetrahedron.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.cpp
+CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o: ../entity/Tetrahedron.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp
 
-CMakeFiles/task01.dir/Tetrahedron.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Tetrahedron.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.cpp > CMakeFiles/task01.dir/Tetrahedron.cpp.i
+CMakeFiles/task01.dir/entity/Tetrahedron.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/entity/Tetrahedron.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp > CMakeFiles/task01.dir/entity/Tetrahedron.cpp.i
 
-CMakeFiles/task01.dir/Tetrahedron.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Tetrahedron.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.cpp -o CMakeFiles/task01.dir/Tetrahedron.cpp.s
+CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp -o CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s
 
 CMakeFiles/task01.dir/Rand.cpp.o: CMakeFiles/task01.dir/flags.make
 CMakeFiles/task01.dir/Rand.cpp.o: ../Rand.cpp
@@ -159,23 +159,23 @@ CMakeFiles/task01.dir/Rand.cpp.s: cmake_force
 
 # Object files for target task01
 task01_OBJECTS = \
-"CMakeFiles/task01.dir/Parallelepiped.cpp.o" \
-"CMakeFiles/task01.dir/Sphere.cpp.o" \
-"CMakeFiles/task01.dir/Shape.cpp.o" \
-"CMakeFiles/task01.dir/Container.cpp.o" \
+"CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o" \
+"CMakeFiles/task01.dir/entity/Sphere.cpp.o" \
+"CMakeFiles/task01.dir/entity/Shape.cpp.o" \
+"CMakeFiles/task01.dir/entity/Container.cpp.o" \
 "CMakeFiles/task01.dir/main.cpp.o" \
-"CMakeFiles/task01.dir/Tetrahedron.cpp.o" \
+"CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o" \
 "CMakeFiles/task01.dir/Rand.cpp.o"
 
 # External object files for target task01
 task01_EXTERNAL_OBJECTS =
 
-../bin/task01: CMakeFiles/task01.dir/Parallelepiped.cpp.o
-../bin/task01: CMakeFiles/task01.dir/Sphere.cpp.o
-../bin/task01: CMakeFiles/task01.dir/Shape.cpp.o
-../bin/task01: CMakeFiles/task01.dir/Container.cpp.o
+../bin/task01: CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o
+../bin/task01: CMakeFiles/task01.dir/entity/Sphere.cpp.o
+../bin/task01: CMakeFiles/task01.dir/entity/Shape.cpp.o
+../bin/task01: CMakeFiles/task01.dir/entity/Container.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/main.cpp.o
-../bin/task01: CMakeFiles/task01.dir/Tetrahedron.cpp.o
+../bin/task01: CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/Rand.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/build.make
 ../bin/task01: CMakeFiles/task01.dir/link.txt

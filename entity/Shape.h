@@ -5,22 +5,26 @@
 // Shape.h - contains definition of figure.
 //------------------------------------------------------------------------------
 
-#include "Sphere.h"
-#include "Parallelepiped.h"
-#include "Tetrahedron.h"
+#include "stdio.h"
 
 //------------------------------------------------------------------------------
-// Structure summarizing all shapes.
+// Class summarizing all shapes.
 class Shape {
  protected:
   double density; // Density of material.
 
  public:
   // Input figure.
-  static Shape *In(FILE *file);
+  static Shape *InStatic(FILE *file);
 
   // Random input.
-  static Shape *InRnd();
+  static Shape *InRndStatic();
+
+  // Virtual input figure.
+  virtual void In(FILE *file) = 0;
+
+  // Virtual random input.
+  virtual void InRnd() = 0;
 
   // Output figure.
   virtual void Out(FILE *file) = 0;

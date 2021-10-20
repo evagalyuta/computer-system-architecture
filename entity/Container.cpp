@@ -32,7 +32,7 @@ void Container::Clear() {
 // Input Container's data.
 void Container::In(FILE *file) {
   while (!feof(file)) {
-	if ((list[len] = Shape::In(file)) != nullptr) {
+	if ((list[len] = Shape::InStatic(file)) != nullptr) {
 	  ++len;
 	}
   }
@@ -41,7 +41,7 @@ void Container::In(FILE *file) {
 // Random input to Container.
 void Container::InRnd(int size) {
   while (len < size) {
-	if ((list[len] = Shape::InRnd()) != nullptr) {
+	if ((list[len] = Shape::InRndStatic()) != nullptr) {
 	  ++len;
 	}
   }

@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/eva/Desktop/CSA/figures_hw2/Container.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Container.cpp.o"
-  "/Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Parallelepiped.cpp.o"
   "/Users/eva/Desktop/CSA/figures_hw2/Rand.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Rand.cpp.o"
-  "/Users/eva/Desktop/CSA/figures_hw2/Shape.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Shape.cpp.o"
-  "/Users/eva/Desktop/CSA/figures_hw2/Sphere.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Sphere.cpp.o"
-  "/Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/Tetrahedron.cpp.o"
+  "/Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/entity/Container.cpp.o"
+  "/Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o"
+  "/Users/eva/Desktop/CSA/figures_hw2/entity/Shape.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/entity/Shape.cpp.o"
+  "/Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/entity/Sphere.cpp.o"
+  "/Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o"
   "/Users/eva/Desktop/CSA/figures_hw2/main.cpp" "/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles/task01.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

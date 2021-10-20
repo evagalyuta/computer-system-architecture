@@ -4,10 +4,13 @@
 
 #include <stdexcept>
 #include "Shape.h"
+#include "Sphere.h"
+#include "Parallelepiped.h"
+#include "Tetrahedron.h"
 
 //------------------------------------------------------------------------------
 // Input parameters for figure from file.
-Shape *Shape::In(FILE *file) {
+Shape *Shape::InStatic(FILE *file) {
   Shape *shape;
   int k;
   fscanf(file, "%d", &k);
@@ -26,7 +29,7 @@ Shape *Shape::In(FILE *file) {
 }
 
 // Random values for figure.
-Shape *Shape::InRnd() {
+Shape *Shape::InRndStatic() {
   Shape *shape;
   int k = rand() % 3 + 1;
   switch (k) {
@@ -36,7 +39,7 @@ Shape *Shape::InRnd() {
 	  break;
 	case 3: shape = new Tetrahedron;
 	  break;
-	default: shape = 0;
+	default: shape = nullptr;
   }
   shape->InRnd();
   return shape;

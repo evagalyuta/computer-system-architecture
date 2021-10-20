@@ -129,54 +129,6 @@ task01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/build
 .PHONY : task01/fast
 
-Container.o: Container.cpp.o
-.PHONY : Container.o
-
-# target to build an object file
-Container.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Container.cpp.o
-.PHONY : Container.cpp.o
-
-Container.i: Container.cpp.i
-.PHONY : Container.i
-
-# target to preprocess a source file
-Container.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Container.cpp.i
-.PHONY : Container.cpp.i
-
-Container.s: Container.cpp.s
-.PHONY : Container.s
-
-# target to generate assembly for a file
-Container.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Container.cpp.s
-.PHONY : Container.cpp.s
-
-Parallelepiped.o: Parallelepiped.cpp.o
-.PHONY : Parallelepiped.o
-
-# target to build an object file
-Parallelepiped.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Parallelepiped.cpp.o
-.PHONY : Parallelepiped.cpp.o
-
-Parallelepiped.i: Parallelepiped.cpp.i
-.PHONY : Parallelepiped.i
-
-# target to preprocess a source file
-Parallelepiped.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Parallelepiped.cpp.i
-.PHONY : Parallelepiped.cpp.i
-
-Parallelepiped.s: Parallelepiped.cpp.s
-.PHONY : Parallelepiped.s
-
-# target to generate assembly for a file
-Parallelepiped.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Parallelepiped.cpp.s
-.PHONY : Parallelepiped.cpp.s
-
 Rand.o: Rand.cpp.o
 .PHONY : Rand.o
 
@@ -201,77 +153,125 @@ Rand.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Rand.cpp.s
 .PHONY : Rand.cpp.s
 
-Shape.o: Shape.cpp.o
-.PHONY : Shape.o
+entity/Container.o: entity/Container.cpp.o
+.PHONY : entity/Container.o
 
 # target to build an object file
-Shape.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Shape.cpp.o
-.PHONY : Shape.cpp.o
+entity/Container.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Container.cpp.o
+.PHONY : entity/Container.cpp.o
 
-Shape.i: Shape.cpp.i
-.PHONY : Shape.i
+entity/Container.i: entity/Container.cpp.i
+.PHONY : entity/Container.i
 
 # target to preprocess a source file
-Shape.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Shape.cpp.i
-.PHONY : Shape.cpp.i
+entity/Container.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Container.cpp.i
+.PHONY : entity/Container.cpp.i
 
-Shape.s: Shape.cpp.s
-.PHONY : Shape.s
+entity/Container.s: entity/Container.cpp.s
+.PHONY : entity/Container.s
 
 # target to generate assembly for a file
-Shape.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Shape.cpp.s
-.PHONY : Shape.cpp.s
+entity/Container.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Container.cpp.s
+.PHONY : entity/Container.cpp.s
 
-Sphere.o: Sphere.cpp.o
-.PHONY : Sphere.o
+entity/Parallelepiped.o: entity/Parallelepiped.cpp.o
+.PHONY : entity/Parallelepiped.o
 
 # target to build an object file
-Sphere.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Sphere.cpp.o
-.PHONY : Sphere.cpp.o
+entity/Parallelepiped.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Parallelepiped.cpp.o
+.PHONY : entity/Parallelepiped.cpp.o
 
-Sphere.i: Sphere.cpp.i
-.PHONY : Sphere.i
+entity/Parallelepiped.i: entity/Parallelepiped.cpp.i
+.PHONY : entity/Parallelepiped.i
 
 # target to preprocess a source file
-Sphere.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Sphere.cpp.i
-.PHONY : Sphere.cpp.i
+entity/Parallelepiped.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Parallelepiped.cpp.i
+.PHONY : entity/Parallelepiped.cpp.i
 
-Sphere.s: Sphere.cpp.s
-.PHONY : Sphere.s
+entity/Parallelepiped.s: entity/Parallelepiped.cpp.s
+.PHONY : entity/Parallelepiped.s
 
 # target to generate assembly for a file
-Sphere.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Sphere.cpp.s
-.PHONY : Sphere.cpp.s
+entity/Parallelepiped.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Parallelepiped.cpp.s
+.PHONY : entity/Parallelepiped.cpp.s
 
-Tetrahedron.o: Tetrahedron.cpp.o
-.PHONY : Tetrahedron.o
+entity/Shape.o: entity/Shape.cpp.o
+.PHONY : entity/Shape.o
 
 # target to build an object file
-Tetrahedron.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Tetrahedron.cpp.o
-.PHONY : Tetrahedron.cpp.o
+entity/Shape.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Shape.cpp.o
+.PHONY : entity/Shape.cpp.o
 
-Tetrahedron.i: Tetrahedron.cpp.i
-.PHONY : Tetrahedron.i
+entity/Shape.i: entity/Shape.cpp.i
+.PHONY : entity/Shape.i
 
 # target to preprocess a source file
-Tetrahedron.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Tetrahedron.cpp.i
-.PHONY : Tetrahedron.cpp.i
+entity/Shape.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Shape.cpp.i
+.PHONY : entity/Shape.cpp.i
 
-Tetrahedron.s: Tetrahedron.cpp.s
-.PHONY : Tetrahedron.s
+entity/Shape.s: entity/Shape.cpp.s
+.PHONY : entity/Shape.s
 
 # target to generate assembly for a file
-Tetrahedron.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Tetrahedron.cpp.s
-.PHONY : Tetrahedron.cpp.s
+entity/Shape.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Shape.cpp.s
+.PHONY : entity/Shape.cpp.s
+
+entity/Sphere.o: entity/Sphere.cpp.o
+.PHONY : entity/Sphere.o
+
+# target to build an object file
+entity/Sphere.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Sphere.cpp.o
+.PHONY : entity/Sphere.cpp.o
+
+entity/Sphere.i: entity/Sphere.cpp.i
+.PHONY : entity/Sphere.i
+
+# target to preprocess a source file
+entity/Sphere.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Sphere.cpp.i
+.PHONY : entity/Sphere.cpp.i
+
+entity/Sphere.s: entity/Sphere.cpp.s
+.PHONY : entity/Sphere.s
+
+# target to generate assembly for a file
+entity/Sphere.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Sphere.cpp.s
+.PHONY : entity/Sphere.cpp.s
+
+entity/Tetrahedron.o: entity/Tetrahedron.cpp.o
+.PHONY : entity/Tetrahedron.o
+
+# target to build an object file
+entity/Tetrahedron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o
+.PHONY : entity/Tetrahedron.cpp.o
+
+entity/Tetrahedron.i: entity/Tetrahedron.cpp.i
+.PHONY : entity/Tetrahedron.i
+
+# target to preprocess a source file
+entity/Tetrahedron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Tetrahedron.cpp.i
+.PHONY : entity/Tetrahedron.cpp.i
+
+entity/Tetrahedron.s: entity/Tetrahedron.cpp.s
+.PHONY : entity/Tetrahedron.s
+
+# target to generate assembly for a file
+entity/Tetrahedron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s
+.PHONY : entity/Tetrahedron.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -306,24 +306,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... task01"
-	@echo "... Container.o"
-	@echo "... Container.i"
-	@echo "... Container.s"
-	@echo "... Parallelepiped.o"
-	@echo "... Parallelepiped.i"
-	@echo "... Parallelepiped.s"
 	@echo "... Rand.o"
 	@echo "... Rand.i"
 	@echo "... Rand.s"
-	@echo "... Shape.o"
-	@echo "... Shape.i"
-	@echo "... Shape.s"
-	@echo "... Sphere.o"
-	@echo "... Sphere.i"
-	@echo "... Sphere.s"
-	@echo "... Tetrahedron.o"
-	@echo "... Tetrahedron.i"
-	@echo "... Tetrahedron.s"
+	@echo "... entity/Container.o"
+	@echo "... entity/Container.i"
+	@echo "... entity/Container.s"
+	@echo "... entity/Parallelepiped.o"
+	@echo "... entity/Parallelepiped.i"
+	@echo "... entity/Parallelepiped.s"
+	@echo "... entity/Shape.o"
+	@echo "... entity/Shape.i"
+	@echo "... entity/Shape.s"
+	@echo "... entity/Sphere.o"
+	@echo "... entity/Sphere.i"
+	@echo "... entity/Sphere.s"
+	@echo "... entity/Tetrahedron.o"
+	@echo "... entity/Tetrahedron.i"
+	@echo "... entity/Tetrahedron.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -80,40 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Container.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.h">
-			<Option target="task01"/>
-		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Rand.cpp">
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Rand.h">
 			<Option target="task01"/>
 		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Shape.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Shape.h">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Sphere.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Sphere.h">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.h">
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp">
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Container.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.cpp">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Parallelepiped.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Shape.cpp">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Shape.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.cpp">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Sphere.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.h">
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/main.cpp">
