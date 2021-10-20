@@ -6,25 +6,26 @@
 //------------------------------------------------------------------------------
 
 #include <stdio.h>
-#include "Rand.h"
+#include "Shape.h"
 
 //------------------------------------------------------------------------------
 // Sphere.
-struct Tetrahedron {
+struct Tetrahedron : public Shape {
+ private:
     int edge; // Edge of tetrahedron.
-    double density; // Density of material.
+
+ public:
+  // Input parameters from file.
+  virtual void In(Tetrahedron &t, FILE* file);
+
+  // Random parameters.
+  virtual void InRnd(Tetrahedron &t);
+
+  // Output tetrahedron.
+  virtual void Out(Tetrahedron &t, FILE* file);
+
+  // Get square of surface of tetrahedron.
+  virtual double Square(Tetrahedron &t);
 };
-
-// Input parameters from file.
-void In(Tetrahedron &t, FILE* file);
-
-// Random parameters.
-void InRnd(Tetrahedron &t);
-
-// Output tetrahedron.
-void Out(Tetrahedron &t, FILE* file);
-
-// Get square of surface of tetrahedron.
-double Square(Tetrahedron &t);
 
 #endif //TASK1_TETRAHEDRON_H

@@ -6,25 +6,26 @@
 //------------------------------------------------------------------------------
 
 #include <stdio.h>
-#include "Rand.h"
+#include "Shape.h"
 
 //------------------------------------------------------------------------------
 // Sphere.
-struct Sphere {
-    int radius; // Radius.
-    double density; // Density of material.
+struct Sphere : public Shape {
+ private:
+  int radius; // Radius.
+
+ public:
+  // Input parameters from file.
+  virtual void In(Sphere &s, FILE *file);
+
+  // Random parameters.
+  virtual void InRnd(Sphere &s);
+
+  // Output sphere.
+  virtual void Out(Sphere &s, FILE *file);
+
+  // Get square of surface of sphere.
+  virtual double Square(Sphere &s);
 };
-
-// Input parameters from file.
-void In(Sphere &s, FILE* file);
-
-// Random parameters.
-void InRnd(Sphere &s);
-
-// Output sphere.
-void Out(Sphere &s, FILE* file);
-
-// Get square of surface of sphere.
-double Square(Sphere &s);
 
 #endif //TASK1_SPHERE_H

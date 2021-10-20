@@ -6,25 +6,25 @@
 //-----------------------------------------------------------------------------
 
 #include <stdio.h>
-#include "Rand.h"
+#include "Shape.h"
 
 //------------------------------------------------------------------------------
 // Parallelepiped.
-struct Parallelepiped {
-    int a, b, c; // Sides.
-    double density; // Density of material.
-};
-
-// Input parameters from file.
-void In(Parallelepiped &t, FILE* file);
+class Parallelepiped : public Shape {
+ private:
+  int a, b, c; // Sides.
+ public:
+  // Input parameters from file.
+  virtual void In(Parallelepiped &t, FILE *file);
 
 // Random parameters.
-void InRnd(Parallelepiped &p);
+  virtual void InRnd(Parallelepiped &p);
 
 // Output sphere parameters and square.
-void Out(Parallelepiped &t, FILE* file);
+  virtual void Out(Parallelepiped &t, FILE *file);
 
 // Get square of surface of parallelepiped.
-double Square(Parallelepiped &t);
+  virtual double Square(Parallelepiped &t);
+};
 
 #endif //TASK1_PARALLELEPIPED_H
