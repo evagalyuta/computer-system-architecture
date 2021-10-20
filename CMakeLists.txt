@@ -13,17 +13,19 @@ set(BINARY_DIR "${CMAKE_BINARY_DIR}")
 set(SOURCE_FILES
     # Headers
         Rand.h
-        Parallelepiped.h
-        Sphere.h
-        Shape.h
-        Container.h
+        entity/Parallelepiped.h
+        entity/Sphere.h
+        entity/Shape.h
+        entity/Container.h
+        entity/Tetrahedron.h
 
     # Sources
-        Parallelepiped.cpp
-        Sphere.cpp
-        Shape.cpp
-        Container.cpp
-    main.cpp
-        Tetrahedron.cpp Tetrahedron.h Rand.cpp)
+        entity/Parallelepiped.cpp
+        entity/Sphere.cpp
+        entity/Shape.cpp
+        entity/Container.cpp
+        main.cpp
+        entity/Tetrahedron.cpp
+        Rand.cpp)
 
 add_executable(task01 ${SOURCE_FILES})

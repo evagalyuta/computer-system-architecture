@@ -23,13 +23,10 @@ class Shape {
   static Shape *InRnd();
 
   // Output figure.
-  virtual void Out(Shape &s, FILE *file);
+  virtual void Out(FILE *file) = 0;
 
   // Get square of figure.
-  virtual double Square(Shape &s);
-
-  // Swap function for ShakerSort.
-  virtual void Swap(Shape &a, Shape &b);
+  virtual double Square() = 0;
 
   // Destructor.
   virtual ~Shape() = default;

@@ -5,7 +5,7 @@
 #include "Sphere.h"
 #include <math.h>
 #include <stdexcept>
-#include "Rand.h"
+#include "../Rand.h"
 
 //------------------------------------------------------------------------------
 // Input parameters from file.

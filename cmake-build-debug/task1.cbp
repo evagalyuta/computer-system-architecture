@@ -83,9 +83,6 @@
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Container.cpp">
 			<Option target="task01"/>
 		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Container.h">
-			<Option target="task01"/>
-		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Parallelepiped.cpp">
 			<Option target="task01"/>
 		</Unit>
@@ -114,6 +111,9 @@
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Tetrahedron.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Container.h">
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/main.cpp">

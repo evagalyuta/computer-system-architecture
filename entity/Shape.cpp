@@ -42,36 +42,4 @@ Shape *Shape::InRnd() {
   return shape;
 }
 
-//------------------------------------------------------------------------------
-// Output figure.
-/*void Out(Shape &s, FILE *file) {
-    switch (s.k) {
-        case Shape::SPHERE:
-            Out(s.s, file);
-            break;
-        case Shape::PARALLELEPIPED:
-            Out(s.p, file);
-            break;
-        case Shape::TETRAHEDRON:
-            Out(s.t, file);
-            break;
-        default:
-            fprintf(file, "%s", "Incorrect figure!");
-    }
-}
-
-//------------------------------------------------------------------------------
-// Get square of figure
-double Square(Shape &s) {
-    return;
-}*/
-
-//------------------------------------------------------------------------------
-// Swap function for ShakerSort.
-void Shape::Swap(Shape &a, Shape &b) {
-  Shape temp;
-  temp = a;
-  a = b;
-  b = temp;
-}
 
