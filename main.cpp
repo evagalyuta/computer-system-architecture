@@ -38,18 +38,18 @@ int main(int argc, char* argv[]) {
     Container container = Container();
     char buffer[10];
 
-    FILE *file;
+
     if(!strcmp(argv[1], "-f")) {
-        file = fopen(argv[2], "r");
+	  FILE *file = fopen(argv[2], "r");
         container.In(file);
         fclose(file);
     }
     else if(!strcmp(argv[1], "-n")) {
         int size = atoi(argv[2]);
-        if((size < 1) || (size > 29999)) {
+        if((size < 1) || (size > 30000)) {
             printf("incorrect number of figures = ");
             snprintf(buffer, 10, "%d", size);
-            printf(". Set 0 < number <= 29999\n");
+            printf(". Set 0 < number <= 30000\n");
             return 3;
         }
         // System clock.

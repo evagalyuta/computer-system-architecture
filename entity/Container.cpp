@@ -12,6 +12,7 @@
 Container::Container() {
   max_size = 30000;
   list = new Shape *[max_size];
+  len = 0;
 }
 
 Container::~Container() {
