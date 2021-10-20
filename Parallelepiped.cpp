@@ -40,3 +40,4 @@ void Parallelepiped::Out(Parallelepiped &p, FILE *file) {
 double Parallelepiped::Square(Parallelepiped &p) {
     return 2.0 * (p.a * p.b + p.a * p.c + p.b * p.c);
 }
+

@@ -10,7 +10,7 @@
 
 //------------------------------------------------------------------------------
 // Sphere.
-struct Sphere : public Shape {
+class Sphere : public Shape {
  private:
   int radius; // Radius.
 
@@ -26,6 +26,9 @@ struct Sphere : public Shape {
 
   // Get square of surface of sphere.
   virtual double Square(Sphere &s);
+
+  // Destructor.
+  virtual ~Sphere() = default;
 };
 
-#endif //TASK1_SPHERE_H
+#endif

@@ -17,14 +17,17 @@ class Parallelepiped : public Shape {
   // Input parameters from file.
   virtual void In(Parallelepiped &t, FILE *file);
 
-// Random parameters.
+  // Random parameters.
   virtual void InRnd(Parallelepiped &p);
 
-// Output sphere parameters and square.
+  // Output sphere parameters and square.
   virtual void Out(Parallelepiped &t, FILE *file);
 
-// Get square of surface of parallelepiped.
+  // Get square of surface of parallelepiped.
   virtual double Square(Parallelepiped &t);
+
+  // Destructor.
+  virtual ~Parallelepiped() = default;
 };
 
-#endif //TASK1_PARALLELEPIPED_H
+#endif

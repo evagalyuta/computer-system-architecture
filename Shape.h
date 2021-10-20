@@ -35,4 +35,4 @@ class Shape {
   virtual ~Shape() = default;
 };
 
-#endif //TASK1_SHAPE_H
+#endif

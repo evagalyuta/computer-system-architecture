@@ -10,7 +10,7 @@
 
 //------------------------------------------------------------------------------
 // Sphere.
-struct Tetrahedron : public Shape {
+class Tetrahedron : public Shape {
  private:
     int edge; // Edge of tetrahedron.
 
@@ -26,6 +26,9 @@ struct Tetrahedron : public Shape {
 
   // Get square of surface of tetrahedron.
   virtual double Square(Tetrahedron &t);
+
+  // Destructor.
+  virtual ~Tetrahedron() = default;
 };
 
-#endif //TASK1_TETRAHEDRON_H
+#endif
