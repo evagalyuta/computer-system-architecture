@@ -12,20 +12,20 @@
 // Sphere.
 class Tetrahedron : public Shape {
  private:
-    int edge; // Edge of tetrahedron.
+  int edge; // Edge of tetrahedron.
 
  public:
   // Input parameters from file.
-  virtual void In(Tetrahedron &t, FILE* file);
+  virtual void In(FILE *file);
 
   // Random parameters.
-  virtual void InRnd(Tetrahedron &t);
+  virtual void InRnd();
 
   // Output tetrahedron.
-  virtual void Out(Tetrahedron &t, FILE* file);
+  virtual void Out(FILE *file);
 
   // Get square of surface of tetrahedron.
-  virtual double Square(Tetrahedron &t);
+  virtual double Square();
 
   // Destructor.
   virtual ~Tetrahedron() = default;

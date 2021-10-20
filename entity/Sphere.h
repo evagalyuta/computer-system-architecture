@@ -16,16 +16,16 @@ class Sphere : public Shape {
 
  public:
   // Input parameters from file.
-  virtual void In(Sphere &s, FILE *file);
+  virtual void In(FILE *file);
 
   // Random parameters.
-  virtual void InRnd(Sphere &s);
+  virtual void InRnd();
 
   // Output sphere.
-  virtual void Out(Sphere &s, FILE *file);
+  virtual void Out(FILE *file);
 
   // Get square of surface of sphere.
-  virtual double Square(Sphere &s);
+  virtual double Square();
 
   // Destructor.
   virtual ~Sphere() = default;

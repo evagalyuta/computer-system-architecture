@@ -9,30 +9,30 @@
 
 //------------------------------------------------------------------------------
 // Input parameters from file.
-void Tetrahedron::In(Tetrahedron &t, FILE* file) {
-    int edge;
-    double density;
-     if (fscanf(file, "%d %lf", &edge, &density) != 2)
-         throw std::invalid_argument("Incorrect tetrahedron.");
-     t.edge = edge;
-     t.density = density;
+void Tetrahedron::In(FILE *file) {
+  int edge;
+  double density;
+  if (fscanf(file, "%d %lf", &edge, &density) != 2)
+	throw std::invalid_argument("Incorrect tetrahedron.");
+  this->edge = edge;
+  this->density = density;
 }
 
 // Random parameters.
-void Tetrahedron::InRnd(Tetrahedron &t) {
-    t.edge = Random();
-    t.density = Random(1);
+void Tetrahedron::InRnd() {
+  edge = Random();
+  density = Random(1);
 }
 
 //------------------------------------------------------------------------------
 // Output tetrahedron parameters and square.
-void Tetrahedron::Out(Tetrahedron &t, FILE* file) {
-    fprintf(file, "%s%d%s%.2f%s%.2f", "It is Tetrahedron: edge = ", t.edge, ", density = ",t.density,". Square = ",
-            Square(t));
+void Tetrahedron::Out(FILE *file) {
+  fprintf(file, "%s%d%s%.2f%s%.2f", "It is Tetrahedron: edge = ", edge, ", density = ", density, ". Square = ",
+		  Square());
 }
 
 //------------------------------------------------------------------------------
 // Get square of surface of tetrahedron.
-double Tetrahedron::Square(Tetrahedron &t) {
-    return (pow(t.edge, 2) * sqrt(3)) / 4.0;
+double Tetrahedron::Square() {
+  return (pow(edge, 2) * sqrt(3)) / 4.0;
 }
