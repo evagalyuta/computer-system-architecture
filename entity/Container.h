@@ -11,14 +11,14 @@
 // Container based on 1-dimension array.
 class Container {
  private:
-  int size; // Max size;
+  int max_size; // Max size;
   Shape **list; // List of shapes.
 
  public:
   int len; // Current length.
 
   // Initialization.
-  explicit Container(int size);
+  explicit Container();
 
   // Deleting Container's data.
   void Clear();
@@ -36,7 +36,7 @@ class Container {
   double SquareSum();
 
   // Shaker sort for container.
-  void ShakerSort(int size);
+  void ShakerSort();
 
   // Swap function for ShakerSort.
   void Swap(Shape* a, Shape* b);

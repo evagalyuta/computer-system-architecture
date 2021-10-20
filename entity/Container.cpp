@@ -9,8 +9,9 @@
 
 //------------------------------------------------------------------------------
 // Initialization of Container.
-Container::Container(int size) {
-  list = new Shape *[size];
+Container::Container() {
+  max_size = 30000;
+  list = new Shape *[max_size];
 }
 
 Container::~Container() {
@@ -21,18 +22,18 @@ Container::~Container() {
 //------------------------------------------------------------------------------
 // Clear data from Container.
 void Container::Clear() {
-  for (int i = 0; i < size; i++) {
+  for (int i = 0; i < len; i++) {
 	delete list[i];
   }
-  size = 0;
+  len = 0;
 }
 
 //------------------------------------------------------------------------------
 // Input Container's data.
 void Container::In(FILE *file) {
   while (!feof(file)) {
-	if ((list[size] = Shape::In(file)) != nullptr) {
-	  ++size;
+	if ((list[len] = Shape::In(file)) != nullptr) {
+	  ++len;
 	}
   }
 }
@@ -77,10 +78,10 @@ void Container::Swap(Shape *a, Shape *b) {
 
 //------------------------------------------------------------------------------
 // Shaker sort for container.
-void Container::ShakerSort(int size) {
+void Container::ShakerSort() {
   bool swapped = true;
   int start = 0;
-  int end = size - 1;
+  int end = len - 1;
 
   while (swapped) {
 	swapped = false;

@@ -35,14 +35,13 @@ int main(int argc, char* argv[]) {
     }
 
     printf("Start");
-    Container c;
-    Init(c);
+    Container container = Container();
     char buffer[10];
 
     FILE *file;
     if(!strcmp(argv[1], "-f")) {
         file = fopen(argv[2], "r");
-        In(c, file);
+        container.In(file);
         fclose(file);
     }
     else if(!strcmp(argv[1], "-n")) {
@@ -56,7 +55,7 @@ int main(int argc, char* argv[]) {
         // System clock.
         srand(static_cast<unsigned int>(time(0)));
         // Random data for container.
-        InRnd(c, size);
+        container.InRnd(size);
     }
     else {
         errMessage2();
@@ -66,18 +65,18 @@ int main(int argc, char* argv[]) {
     // Output container data.
     FILE *fileOutput;
     fileOutput = fopen(argv[3], "w");
-    Out(c, fileOutput);
+    container.Out(fileOutput);
     fclose(fileOutput);
 
     // The 2nd part of task.
     FILE *fileOutputSecond;
     fileOutputSecond = fopen(argv[4], "w");
 
-    ShakerSort(c, c.len);
-    Out(c, fileOutputSecond);
+    container.ShakerSort();
+    container.Out(fileOutputSecond);
     fclose(fileOutputSecond);
 
-    Clear(c);
+    container.Clear();
 
     clock_t end = clock(); // Конечное время.
     double total_time = static_cast<double>(end - start) / CLOCKS_PER_SEC;
