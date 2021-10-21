@@ -69,15 +69,6 @@ double Container::SquareSum() {
 }
 
 //------------------------------------------------------------------------------
-// Swap function for ShakerSort.
-void Container::Swap(Shape *a, Shape *b) {
-  Shape *temp;
-  temp = a;
-  a = b;
-  b = temp;
-}
-
-//------------------------------------------------------------------------------
 // Shaker sort for container.
 void Container::ShakerSort() {
   bool swapped = true;
@@ -88,7 +79,9 @@ void Container::ShakerSort() {
 	swapped = false;
 	for (int i = start; i < end; ++i) {
 	  if (list[i]->Square() > list[i + 1]->Square()) {
-		Swap(list[i], list[i + 1]);
+		Shape* temp = list[i];
+		list[i] = list[i + 1];
+		list[i + 1] = temp;
 		swapped = true;
 	  }
 	}
@@ -98,7 +91,9 @@ void Container::ShakerSort() {
 	--end;
 	for (int i = end - 1; i >= start; --i) {
 	  if (list[i]->Square() > list[i + 1]->Square()) {
-		Swap(list[i], list[i + 1]);
+		Shape* temp = list[i];
+		list[i] = list[i + 1];
+		list[i + 1] = temp;
 		swapped = true;
 	  }
 	}

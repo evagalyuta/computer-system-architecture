@@ -24,22 +24,19 @@ class Container {
   void Clear();
 
   // Input data.
-  void In(FILE * file);
+  void In(FILE *file);
 
   // Random input.
   void InRnd(int size);
 
   // Output Container's data.
-  void Out(FILE * file);
+  void Out(FILE *file);
 
   // Get sum of squares of figures.
   double SquareSum();
 
   // Shaker sort for container.
   void ShakerSort();
-
-  // Swap function for ShakerSort.
-  void Swap(Shape* a, Shape* b);
 
   // Destructor.
   ~Container();
