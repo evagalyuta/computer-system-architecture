@@ -80,12 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Rand.cpp">
-			<Option target="task01"/>
-		</Unit>
-		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/Rand.h">
-			<Option target="task01"/>
-		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Container.cpp">
 			<Option target="task01"/>
 		</Unit>
@@ -114,6 +108,12 @@
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.h">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/function/Rand.cpp">
+			<Option target="task01"/>
+		</Unit>
+		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/function/Rand.h">
 			<Option target="task01"/>
 		</Unit>
 		<Unit filename="/Users/eva/Desktop/CSA/figures_hw2/main.cpp">

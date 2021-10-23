@@ -4,7 +4,7 @@
 
 #include <stdexcept>
 #include "Parallelepiped.h"
-#include "../Rand.h"
+#include "../function/Rand.h"
 
 //------------------------------------------------------------------------------
 // Input parameters from file.

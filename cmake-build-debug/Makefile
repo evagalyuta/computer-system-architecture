@@ -129,30 +129,6 @@ task01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/build
 .PHONY : task01/fast
 
-Rand.o: Rand.cpp.o
-.PHONY : Rand.o
-
-# target to build an object file
-Rand.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Rand.cpp.o
-.PHONY : Rand.cpp.o
-
-Rand.i: Rand.cpp.i
-.PHONY : Rand.i
-
-# target to preprocess a source file
-Rand.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Rand.cpp.i
-.PHONY : Rand.cpp.i
-
-Rand.s: Rand.cpp.s
-.PHONY : Rand.s
-
-# target to generate assembly for a file
-Rand.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/Rand.cpp.s
-.PHONY : Rand.cpp.s
-
 entity/Container.o: entity/Container.cpp.o
 .PHONY : entity/Container.o
 
@@ -273,6 +249,30 @@ entity/Tetrahedron.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s
 .PHONY : entity/Tetrahedron.cpp.s
 
+function/Rand.o: function/Rand.cpp.o
+.PHONY : function/Rand.o
+
+# target to build an object file
+function/Rand.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/function/Rand.cpp.o
+.PHONY : function/Rand.cpp.o
+
+function/Rand.i: function/Rand.cpp.i
+.PHONY : function/Rand.i
+
+# target to preprocess a source file
+function/Rand.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/function/Rand.cpp.i
+.PHONY : function/Rand.cpp.i
+
+function/Rand.s: function/Rand.cpp.s
+.PHONY : function/Rand.s
+
+# target to generate assembly for a file
+function/Rand.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/task01.dir/build.make CMakeFiles/task01.dir/function/Rand.cpp.s
+.PHONY : function/Rand.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -306,9 +306,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... task01"
-	@echo "... Rand.o"
-	@echo "... Rand.i"
-	@echo "... Rand.s"
 	@echo "... entity/Container.o"
 	@echo "... entity/Container.i"
 	@echo "... entity/Container.s"
@@ -324,6 +321,9 @@ help:
 	@echo "... entity/Tetrahedron.o"
 	@echo "... entity/Tetrahedron.i"
 	@echo "... entity/Tetrahedron.s"
+	@echo "... function/Rand.o"
+	@echo "... function/Rand.i"
+	@echo "... function/Rand.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

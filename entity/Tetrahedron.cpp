@@ -3,7 +3,7 @@
 //------------------------------------------------------------------------------
 
 #include "Tetrahedron.h"
-#include "../Rand.h"
+#include "../function/Rand.h"
 #include <math.h>
 #include <stdexcept>
 

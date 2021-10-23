@@ -144,18 +144,18 @@ CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/entity/Tetrahedron.cpp -o CMakeFiles/task01.dir/entity/Tetrahedron.cpp.s
 
-CMakeFiles/task01.dir/Rand.cpp.o: CMakeFiles/task01.dir/flags.make
-CMakeFiles/task01.dir/Rand.cpp.o: ../Rand.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/task01.dir/Rand.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/Rand.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/Rand.cpp
+CMakeFiles/task01.dir/function/Rand.cpp.o: CMakeFiles/task01.dir/flags.make
+CMakeFiles/task01.dir/function/Rand.cpp.o: ../function/Rand.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/task01.dir/function/Rand.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task01.dir/function/Rand.cpp.o -c /Users/eva/Desktop/CSA/figures_hw2/function/Rand.cpp
 
-CMakeFiles/task01.dir/Rand.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/Rand.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/Rand.cpp > CMakeFiles/task01.dir/Rand.cpp.i
+CMakeFiles/task01.dir/function/Rand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task01.dir/function/Rand.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/eva/Desktop/CSA/figures_hw2/function/Rand.cpp > CMakeFiles/task01.dir/function/Rand.cpp.i
 
-CMakeFiles/task01.dir/Rand.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/Rand.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/Rand.cpp -o CMakeFiles/task01.dir/Rand.cpp.s
+CMakeFiles/task01.dir/function/Rand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task01.dir/function/Rand.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/eva/Desktop/CSA/figures_hw2/function/Rand.cpp -o CMakeFiles/task01.dir/function/Rand.cpp.s
 
 # Object files for target task01
 task01_OBJECTS = \
@@ -165,7 +165,7 @@ task01_OBJECTS = \
 "CMakeFiles/task01.dir/entity/Container.cpp.o" \
 "CMakeFiles/task01.dir/main.cpp.o" \
 "CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o" \
-"CMakeFiles/task01.dir/Rand.cpp.o"
+"CMakeFiles/task01.dir/function/Rand.cpp.o"
 
 # External object files for target task01
 task01_EXTERNAL_OBJECTS =
@@ -176,7 +176,7 @@ task01_EXTERNAL_OBJECTS =
 ../bin/task01: CMakeFiles/task01.dir/entity/Container.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/main.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/entity/Tetrahedron.cpp.o
-../bin/task01: CMakeFiles/task01.dir/Rand.cpp.o
+../bin/task01: CMakeFiles/task01.dir/function/Rand.cpp.o
 ../bin/task01: CMakeFiles/task01.dir/build.make
 ../bin/task01: CMakeFiles/task01.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/eva/Desktop/CSA/figures_hw2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ../bin/task01"
