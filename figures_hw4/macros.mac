@@ -1,0 +1,131 @@
+; macros.mac макроопределения
+
+extern  fopen
+extern  fscanf
+extern  fclose
+extern  fprintf
+extern  printf
+extern  stdout
+extern  time
+extern  srand
+extern  strcmp
+extern  atoi
+extern  clock
+extern  CLOCKS_PER_SEC
+
+extern  InContainer
+extern  InRandContainer
+extern  OutContainer
+extern  SquareSumContainer
+
+;-------------------------------------------------------------
+; Out symbols line from buffer.
+%macro	PrintStrBuf 2
+        mov rdi, %2
+        mov rsi, %1
+        xor rax, rax
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out line from macros.
+%macro  PrintStr    2
+    section .data
+        %%arg1  db  %1,0        ; first argument
+    section .text               ; the printf arguments
+        mov rdi, %2
+        mov rsi, %%arg1
+        mov rax, 0              ; no floating point
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out line from macros with end line.
+%macro  PrintStrLn    2
+    section .data
+        %%arg1  db  %1,10,0     ; first argument
+    section .text               ; the printf arguments
+        mov rdi, %2
+        mov rsi, %%arg1
+        mov rax, 0              ; no floating point
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out integer.
+%macro  PrintInt    2
+    section .data
+        %%arg1  db  "%d",0     ; first argument
+    section .text               ; the printf arguments
+        mov rdi, %2
+        mov rsi, %%arg1
+        mov rdx, %1
+        mov rax, 0              ; no floating point
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out unsigned long long.
+%macro  PrintLLUns    2
+    section .data
+        %%arg1  db  "%llu",0     ; first argument
+    section .text               ; the printf arguments
+        mov rdi, %2
+        mov rsi, %%arg1
+        mov rdx, %1
+        mov rax, 0              ; no floating point
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out double.
+%macro  PrintDouble    2
+    section .data
+        %%arg1  db  "%g",0     ; first argument
+    section .text               ; the printf arguments
+        mov rdi, %2
+        mov rsi, %%arg1
+        movsd xmm0, %1
+        mov rax, 1              ; no floating point
+        call fprintf
+%endmacro
+
+;-------------------------------------------------------------
+; Out container data.
+%macro  PrintContainer    3
+    mov     rdi, %1
+    mov     esi, %2
+    mov     rdx, %3
+    mov     rax, 0
+    call    OutContainer
+%endmacro
+
+;-------------------------------------------------------------
+; Sum of squares.
+%macro  ContainerSum    3
+    mov     rdi, %1
+    mov     rsi, %2
+    call    SquareSumContainer
+    movsd   %3, xmm0
+%endmacro
+
+;-------------------------------------------------------------
+; Open file.
+%macro  FileOpen   3
+    section .data
+        %%rw  db  %2,0
+    section .text               ; the printf arguments
+        mov     rdi, %1         ; file address
+        mov     rsi, %%rw
+        mov     rax, 0
+        call    fopen
+        mov     [%3], rax
+%endmacro
+
+;-------------------------------------------------------------
+; Close file.
+%macro  FileClose   1
+    mov     rdi, %1
+    mov     rax, 0
+    call    fclose
+%endmacro

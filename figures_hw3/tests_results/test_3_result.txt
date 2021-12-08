@@ -1,0 +1,1001 @@
+Container contains 1000 elements.
+It is Tetrahedron: edge = 14, density = 0.61. Square = 84.87
+It is Parallelepiped: a = 15, b = 15, c = 1, density = 0.59. Square = 510.00
+It is Parallelepiped: a = 18, b = 12, c = 2, density = 0.88. Square = 552.00
+It is Tetrahedron: edge = 8, density = 0.39. Square = 27.71
+It is Sphere: radius = 5, density = 0.96. Square = 314.16
+It is Sphere: radius = 11, density = 0.49. Square = 1520.53
+It is Sphere: radius = 3, density = 0.34. Square = 113.10
+It is Sphere: radius = 14, density = 0.44. Square = 2463.01
+It is Parallelepiped: a = 16, b = 12, c = 7, density = 0.29. Square = 776.00
+It is Sphere: radius = 6, density = 0.75. Square = 452.39
+It is Sphere: radius = 14, density = 0.81. Square = 2463.01
+It is Tetrahedron: edge = 16, density = 0.55. Square = 110.85
+It is Sphere: radius = 4, density = 0.40. Square = 201.06
+It is Sphere: radius = 17, density = 0.84. Square = 3631.68
+It is Parallelepiped: a = 11, b = 17, c = 8, density = 0.59. Square = 822.00
+It is Parallelepiped: a = 9, b = 18, c = 11, density = 0.23. Square = 918.00
+It is Tetrahedron: edge = 15, density = 0.37. Square = 97.43
+It is Parallelepiped: a = 3, b = 20, c = 5, density = 0.60. Square = 350.00
+It is Tetrahedron: edge = 18, density = 0.28. Square = 140.30
+It is Sphere: radius = 6, density = 0.89. Square = 452.39
+It is Tetrahedron: edge = 13, density = 0.58. Square = 73.18
+It is Parallelepiped: a = 17, b = 10, c = 7, density = 0.08. Square = 718.00
+It is Sphere: radius = 9, density = 0.60. Square = 1017.88
+It is Parallelepiped: a = 6, b = 4, c = 10, density = 0.67. Square = 248.00
+It is Tetrahedron: edge = 12, density = 0.98. Square = 62.35
+It is Parallelepiped: a = 2, b = 9, c = 18, density = 0.45. Square = 432.00
+It is Tetrahedron: edge = 10, density = 0.06. Square = 43.30
+It is Parallelepiped: a = 11, b = 6, c = 13, density = 0.47. Square = 574.00
+It is Parallelepiped: a = 1, b = 16, c = 13, density = 0.66. Square = 474.00
+It is Sphere: radius = 9, density = 0.35. Square = 1017.88
+It is Sphere: radius = 10, density = 0.97. Square = 1256.64
+It is Sphere: radius = 7, density = 0.62. Square = 615.75
+It is Tetrahedron: edge = 10, density = 0.58. Square = 43.30
+It is Parallelepiped: a = 14, b = 10, c = 11, density = 0.58. Square = 808.00
+It is Sphere: radius = 1, density = 0.38. Square = 12.57
+It is Sphere: radius = 9, density = 0.13. Square = 1017.88
+It is Sphere: radius = 6, density = 0.68. Square = 452.39
+It is Tetrahedron: edge = 10, density = 0.62. Square = 43.30
+It is Sphere: radius = 18, density = 0.80. Square = 4071.50
+It is Tetrahedron: edge = 11, density = 0.57. Square = 52.39
+It is Sphere: radius = 11, density = 0.50. Square = 1520.53
+It is Sphere: radius = 14, density = 0.27. Square = 2463.01
+It is Tetrahedron: edge = 5, density = 0.50. Square = 10.83
+It is Parallelepiped: a = 12, b = 9, c = 12, density = 0.50. Square = 720.00
+It is Tetrahedron: edge = 19, density = 0.32. Square = 156.32
+It is Parallelepiped: a = 6, b = 19, c = 3, density = 0.62. Square = 378.00
+It is Tetrahedron: edge = 12, density = 0.28. Square = 62.35
+It is Tetrahedron: edge = 4, density = 0.06. Square = 6.93
+It is Tetrahedron: edge = 15, density = 0.40. Square = 97.43
+It is Tetrahedron: edge = 7, density = 0.76. Square = 21.22
+It is Tetrahedron: edge = 9, density = 0.12. Square = 35.07
+It is Sphere: radius = 19, density = 0.19. Square = 4536.46
+It is Sphere: radius = 20, density = 0.53. Square = 5026.55
+It is Sphere: radius = 13, density = 0.56. Square = 2123.72
+It is Parallelepiped: a = 6, b = 10, c = 7, density = 0.89. Square = 344.00
+It is Tetrahedron: edge = 6, density = 0.35. Square = 15.59
+It is Tetrahedron: edge = 12, density = 0.06. Square = 62.35
+It is Sphere: radius = 15, density = 0.98. Square = 2827.43
+It is Tetrahedron: edge = 7, density = 0.63. Square = 21.22
+It is Parallelepiped: a = 16, b = 5, c = 3, density = 0.05. Square = 286.00
+It is Parallelepiped: a = 6, b = 5, c = 19, density = 0.72. Square = 478.00
+It is Sphere: radius = 4, density = 0.84. Square = 201.06
+It is Parallelepiped: a = 14, b = 17, c = 16, density = 0.85. Square = 1468.00
+It is Tetrahedron: edge = 14, density = 0.40. Square = 84.87
+It is Parallelepiped: a = 5, b = 19, c = 3, density = 0.92. Square = 334.00
+It is Sphere: radius = 16, density = 0.15. Square = 3216.99
+It is Tetrahedron: edge = 4, density = 0.83. Square = 6.93
+It is Tetrahedron: edge = 11, density = 0.98. Square = 52.39
+It is Tetrahedron: edge = 2, density = 0.79. Square = 1.73
+It is Parallelepiped: a = 9, b = 13, c = 2, density = 0.17. Square = 322.00
+It is Tetrahedron: edge = 5, density = 0.91. Square = 10.83
+It is Parallelepiped: a = 5, b = 1, c = 12, density = 0.88. Square = 154.00
+It is Parallelepiped: a = 7, b = 17, c = 5, density = 0.50. Square = 478.00
+It is Sphere: radius = 17, density = 0.55. Square = 3631.68
+It is Parallelepiped: a = 12, b = 7, c = 5, density = 0.51. Square = 358.00
+It is Parallelepiped: a = 9, b = 19, c = 19, density = 0.86. Square = 1406.00
+It is Sphere: radius = 5, density = 0.06. Square = 314.16
+It is Tetrahedron: edge = 18, density = 0.58. Square = 140.30
+It is Sphere: radius = 10, density = 0.78. Square = 1256.64
+It is Tetrahedron: edge = 5, density = 0.32. Square = 10.83
+It is Parallelepiped: a = 2, b = 13, c = 5, density = 0.31. Square = 202.00
+It is Parallelepiped: a = 6, b = 16, c = 3, density = 0.60. Square = 324.00
+It is Sphere: radius = 17, density = 0.89. Square = 3631.68
+It is Parallelepiped: a = 10, b = 19, c = 9, density = 0.52. Square = 902.00
+It is Parallelepiped: a = 5, b = 13, c = 12, density = 0.25. Square = 562.00
+It is Parallelepiped: a = 14, b = 1, c = 2, density = 0.82. Square = 88.00
+It is Parallelepiped: a = 8, b = 9, c = 10, density = 0.52. Square = 484.00
+It is Tetrahedron: edge = 2, density = 0.86. Square = 1.73
+It is Sphere: radius = 15, density = 0.21. Square = 2827.43
+It is Parallelepiped: a = 1, b = 9, c = 17, density = 0.61. Square = 358.00
+It is Parallelepiped: a = 13, b = 13, c = 1, density = 0.46. Square = 390.00
+It is Tetrahedron: edge = 1, density = 0.13. Square = 0.43
+It is Sphere: radius = 19, density = 0.23. Square = 4536.46
+It is Sphere: radius = 8, density = 0.89. Square = 804.25
+It is Parallelepiped: a = 6, b = 18, c = 20, density = 0.18. Square = 1176.00
+It is Sphere: radius = 10, density = 0.47. Square = 1256.64
+It is Parallelepiped: a = 5, b = 5, c = 10, density = 0.25. Square = 250.00
+It is Sphere: radius = 11, density = 0.71. Square = 1520.53
+It is Tetrahedron: edge = 3, density = 0.68. Square = 3.90
+It is Parallelepiped: a = 9, b = 15, c = 2, density = 0.83. Square = 366.00
+It is Tetrahedron: edge = 1, density = 0.46. Square = 0.43
+It is Parallelepiped: a = 1, b = 18, c = 16, density = 0.54. Square = 644.00
+It is Sphere: radius = 15, density = 0.54. Square = 2827.43
+It is Parallelepiped: a = 10, b = 17, c = 8, density = 0.64. Square = 772.00
+It is Parallelepiped: a = 7, b = 3, c = 6, density = 0.45. Square = 162.00
+It is Parallelepiped: a = 1, b = 15, c = 2, density = 0.80. Square = 94.00
+It is Parallelepiped: a = 7, b = 1, c = 18, density = 0.26. Square = 302.00
+It is Parallelepiped: a = 3, b = 1, c = 2, density = 0.18. Square = 22.00
+It is Parallelepiped: a = 5, b = 1, c = 6, density = 0.29. Square = 82.00
+It is Tetrahedron: edge = 7, density = 0.26. Square = 21.22
+It is Sphere: radius = 19, density = 0.84. Square = 4536.46
+It is Sphere: radius = 2, density = 0.25. Square = 50.27
+It is Parallelepiped: a = 14, b = 18, c = 16, density = 0.69. Square = 1528.00
+It is Tetrahedron: edge = 6, density = 0.25. Square = 15.59
+It is Tetrahedron: edge = 2, density = 0.96. Square = 1.73
+It is Tetrahedron: edge = 11, density = 0.90. Square = 52.39
+It is Tetrahedron: edge = 2, density = 0.25. Square = 1.73
+It is Tetrahedron: edge = 19, density = 0.44. Square = 156.32
+It is Parallelepiped: a = 19, b = 13, c = 8, density = 0.75. Square = 1006.00
+It is Parallelepiped: a = 20, b = 10, c = 6, density = 0.33. Square = 760.00
+It is Tetrahedron: edge = 16, density = 0.39. Square = 110.85
+It is Sphere: radius = 12, density = 0.42. Square = 1809.56
+It is Sphere: radius = 4, density = 0.71. Square = 201.06
+It is Tetrahedron: edge = 9, density = 0.55. Square = 35.07
+It is Parallelepiped: a = 5, b = 13, c = 13, density = 0.71. Square = 598.00
+It is Tetrahedron: edge = 17, density = 0.06. Square = 125.14
+It is Tetrahedron: edge = 19, density = 0.34. Square = 156.32
+It is Parallelepiped: a = 14, b = 10, c = 19, density = 0.60. Square = 1192.00
+It is Tetrahedron: edge = 19, density = 0.29. Square = 156.32
+It is Parallelepiped: a = 18, b = 2, c = 20, density = 0.73. Square = 872.00
+It is Sphere: radius = 10, density = 0.61. Square = 1256.64
+It is Sphere: radius = 5, density = 0.96. Square = 314.16
+It is Parallelepiped: a = 12, b = 11, c = 15, density = 0.68. Square = 954.00
+It is Tetrahedron: edge = 8, density = 0.95. Square = 27.71
+It is Sphere: radius = 16, density = 0.99. Square = 3216.99
+It is Tetrahedron: edge = 11, density = 0.70. Square = 52.39
+It is Sphere: radius = 4, density = 0.14. Square = 201.06
+It is Tetrahedron: edge = 6, density = 0.04. Square = 15.59
+It is Tetrahedron: edge = 18, density = 0.37. Square = 140.30
+It is Tetrahedron: edge = 16, density = 0.55. Square = 110.85
+It is Parallelepiped: a = 8, b = 15, c = 18, density = 0.18. Square = 1068.00
+It is Sphere: radius = 14, density = 0.21. Square = 2463.01
+It is Parallelepiped: a = 19, b = 9, c = 4, density = 0.76. Square = 566.00
+It is Sphere: radius = 16, density = 0.72. Square = 3216.99
+It is Tetrahedron: edge = 13, density = 0.84. Square = 73.18
+It is Parallelepiped: a = 7, b = 3, c = 10, density = 0.59. Square = 242.00
+It is Parallelepiped: a = 1, b = 16, c = 2, density = 0.56. Square = 100.00
+It is Parallelepiped: a = 16, b = 18, c = 8, density = 0.52. Square = 1120.00
+It is Sphere: radius = 12, density = 0.24. Square = 1809.56
+It is Tetrahedron: edge = 17, density = 0.47. Square = 125.14
+It is Tetrahedron: edge = 14, density = 0.35. Square = 84.87
+It is Parallelepiped: a = 5, b = 1, c = 20, density = 0.30. Square = 250.00
+It is Parallelepiped: a = 15, b = 9, c = 14, density = 0.79. Square = 942.00
+It is Parallelepiped: a = 14, b = 3, c = 14, density = 0.32. Square = 560.00
+It is Tetrahedron: edge = 12, density = 0.76. Square = 62.35
+It is Sphere: radius = 12, density = 0.70. Square = 1809.56
+It is Parallelepiped: a = 12, b = 10, c = 19, density = 0.33. Square = 1076.00
+It is Parallelepiped: a = 1, b = 11, c = 7, density = 0.64. Square = 190.00
+It is Sphere: radius = 2, density = 0.48. Square = 50.27
+It is Sphere: radius = 3, density = 0.07. Square = 113.10
+It is Parallelepiped: a = 11, b = 15, c = 10, density = 0.94. Square = 850.00
+It is Tetrahedron: edge = 12, density = 0.54. Square = 62.35
+It is Parallelepiped: a = 10, b = 18, c = 4, density = 0.19. Square = 584.00
+It is Tetrahedron: edge = 3, density = 0.44. Square = 3.90
+It is Parallelepiped: a = 12, b = 8, c = 11, density = 0.16. Square = 632.00
+It is Tetrahedron: edge = 18, density = 0.15. Square = 140.30
+It is Sphere: radius = 5, density = 0.03. Square = 314.16
+It is Sphere: radius = 9, density = 0.26. Square = 1017.88
+It is Sphere: radius = 18, density = 0.57. Square = 4071.50
+It is Tetrahedron: edge = 15, density = 0.57. Square = 97.43
+It is Sphere: radius = 14, density = 0.02. Square = 2463.01
+It is Parallelepiped: a = 11, b = 5, c = 18, density = 0.92. Square = 686.00
+It is Tetrahedron: edge = 11, density = 0.18. Square = 52.39
+It is Parallelepiped: a = 11, b = 8, c = 2, density = 0.11. Square = 252.00
+It is Sphere: radius = 7, density = 0.32. Square = 615.75
+It is Tetrahedron: edge = 9, density = 0.99. Square = 35.07
+It is Parallelepiped: a = 2, b = 19, c = 10, density = 0.52. Square = 496.00
+It is Parallelepiped: a = 12, b = 1, c = 2, density = 0.94. Square = 76.00
+It is Tetrahedron: edge = 19, density = 0.56. Square = 156.32
+It is Tetrahedron: edge = 18, density = 0.26. Square = 140.30
+It is Tetrahedron: edge = 3, density = 0.77. Square = 3.90
+It is Sphere: radius = 7, density = 0.95. Square = 615.75
+It is Sphere: radius = 5, density = 0.92. Square = 314.16
+It is Sphere: radius = 9, density = 0.44. Square = 1017.88
+It is Tetrahedron: edge = 9, density = 0.84. Square = 35.07
+It is Sphere: radius = 13, density = 0.95. Square = 2123.72
+It is Tetrahedron: edge = 1, density = 0.51. Square = 0.43
+It is Parallelepiped: a = 17, b = 4, c = 18, density = 0.33. Square = 892.00
+It is Tetrahedron: edge = 11, density = 0.23. Square = 52.39
+It is Tetrahedron: edge = 7, density = 0.26. Square = 21.22
+It is Sphere: radius = 15, density = 0.87. Square = 2827.43
+It is Tetrahedron: edge = 19, density = 0.65. Square = 156.32
+It is Sphere: radius = 4, density = 0.50. Square = 201.06
+It is Sphere: radius = 16, density = 0.27. Square = 3216.99
+It is Parallelepiped: a = 19, b = 7, c = 15, density = 0.53. Square = 1046.00
+It is Tetrahedron: edge = 3, density = 0.24. Square = 3.90
+It is Parallelepiped: a = 10, b = 2, c = 10, density = 0.43. Square = 280.00
+It is Tetrahedron: edge = 8, density = 0.80. Square = 27.71
+It is Sphere: radius = 15, density = 0.59. Square = 2827.43
+It is Tetrahedron: edge = 17, density = 0.95. Square = 125.14
+It is Tetrahedron: edge = 11, density = 0.95. Square = 52.39
+It is Parallelepiped: a = 2, b = 10, c = 18, density = 0.41. Square = 472.00
+It is Sphere: radius = 13, density = 0.90. Square = 2123.72
+It is Sphere: radius = 7, density = 0.60. Square = 615.75
+It is Sphere: radius = 2, density = 0.27. Square = 50.27
+It is Tetrahedron: edge = 5, density = 0.06. Square = 10.83
+It is Tetrahedron: edge = 17, density = 0.22. Square = 125.14
+It is Parallelepiped: a = 5, b = 19, c = 6, density = 0.35. Square = 478.00
+It is Parallelepiped: a = 20, b = 9, c = 12, density = 0.47. Square = 1056.00
+It is Tetrahedron: edge = 9, density = 0.02. Square = 35.07
+It is Parallelepiped: a = 2, b = 1, c = 8, density = 0.86. Square = 52.00
+It is Parallelepiped: a = 5, b = 12, c = 14, density = 0.93. Square = 596.00
+It is Tetrahedron: edge = 14, density = 0.74. Square = 84.87
+It is Parallelepiped: a = 10, b = 10, c = 6, density = 0.85. Square = 440.00
+It is Parallelepiped: a = 16, b = 3, c = 5, density = 0.58. Square = 286.00
+It is Tetrahedron: edge = 2, density = 0.63. Square = 1.73
+It is Sphere: radius = 12, density = 0.27. Square = 1809.56
+It is Parallelepiped: a = 5, b = 2, c = 13, density = 0.85. Square = 202.00
+It is Sphere: radius = 9, density = 0.45. Square = 1017.88
+It is Tetrahedron: edge = 16, density = 0.04. Square = 110.85
+It is Parallelepiped: a = 8, b = 10, c = 12, density = 0.93. Square = 592.00
+It is Parallelepiped: a = 10, b = 2, c = 20, density = 0.73. Square = 520.00
+It is Sphere: radius = 5, density = 0.77. Square = 314.16
+It is Sphere: radius = 13, density = 0.44. Square = 2123.72
+It is Parallelepiped: a = 8, b = 1, c = 5, density = 0.39. Square = 106.00
+It is Tetrahedron: edge = 18, density = 0.77. Square = 140.30
+It is Tetrahedron: edge = 17, density = 0.79. Square = 125.14
+It is Sphere: radius = 14, density = 0.33. Square = 2463.01
+It is Sphere: radius = 14, density = 0.61. Square = 2463.01
+It is Sphere: radius = 12, density = 0.44. Square = 1809.56
+It is Tetrahedron: edge = 20, density = 0.93. Square = 173.21
+It is Sphere: radius = 3, density = 0.20. Square = 113.10
+It is Tetrahedron: edge = 13, density = 0.42. Square = 73.18
+It is Parallelepiped: a = 6, b = 2, c = 12, density = 0.17. Square = 216.00
+It is Tetrahedron: edge = 13, density = 0.84. Square = 73.18
+It is Tetrahedron: edge = 18, density = 0.87. Square = 140.30
+It is Tetrahedron: edge = 2, density = 0.35. Square = 1.73
+It is Parallelepiped: a = 2, b = 12, c = 8, density = 0.27. Square = 272.00
+It is Tetrahedron: edge = 9, density = 0.69. Square = 35.07
+It is Sphere: radius = 10, density = 0.52. Square = 1256.64
+It is Parallelepiped: a = 20, b = 9, c = 12, density = 0.21. Square = 1056.00
+It is Sphere: radius = 10, density = 0.83. Square = 1256.64
+It is Sphere: radius = 8, density = 0.88. Square = 804.25
+It is Parallelepiped: a = 2, b = 10, c = 20, density = 0.49. Square = 520.00
+It is Tetrahedron: edge = 17, density = 0.57. Square = 125.14
+It is Sphere: radius = 10, density = 0.21. Square = 1256.64
+It is Tetrahedron: edge = 20, density = 0.39. Square = 173.21
+It is Parallelepiped: a = 3, b = 20, c = 10, density = 0.01. Square = 580.00
+It is Sphere: radius = 10, density = 0.52. Square = 1256.64
+It is Sphere: radius = 6, density = 0.95. Square = 452.39
+It is Sphere: radius = 2, density = 0.85. Square = 50.27
+It is Parallelepiped: a = 19, b = 7, c = 5, density = 0.23. Square = 526.00
+It is Sphere: radius = 1, density = 0.18. Square = 12.57
+It is Tetrahedron: edge = 12, density = 0.84. Square = 62.35
+It is Parallelepiped: a = 20, b = 3, c = 18, density = 0.99. Square = 948.00
+It is Sphere: radius = 19, density = 0.90. Square = 4536.46
+It is Parallelepiped: a = 14, b = 19, c = 16, density = 0.87. Square = 1588.00
+It is Tetrahedron: edge = 17, density = 0.87. Square = 125.14
+It is Tetrahedron: edge = 7, density = 0.46. Square = 21.22
+It is Parallelepiped: a = 10, b = 7, c = 10, density = 0.77. Square = 480.00
+It is Tetrahedron: edge = 4, density = 0.88. Square = 6.93
+It is Tetrahedron: edge = 13, density = 0.87. Square = 73.18
+It is Sphere: radius = 5, density = 0.39. Square = 314.16
+It is Parallelepiped: a = 3, b = 5, c = 17, density = 0.02. Square = 302.00
+It is Sphere: radius = 18, density = 0.59. Square = 4071.50
+It is Tetrahedron: edge = 13, density = 0.90. Square = 73.18
+It is Tetrahedron: edge = 14, density = 0.92. Square = 84.87
+It is Parallelepiped: a = 8, b = 11, c = 16, density = 0.63. Square = 784.00
+It is Sphere: radius = 17, density = 0.93. Square = 3631.68
+It is Tetrahedron: edge = 11, density = 0.08. Square = 52.39
+It is Tetrahedron: edge = 11, density = 0.37. Square = 52.39
+It is Tetrahedron: edge = 12, density = 0.83. Square = 62.35
+It is Tetrahedron: edge = 8, density = 0.66. Square = 27.71
+It is Sphere: radius = 13, density = 0.74. Square = 2123.72
+It is Parallelepiped: a = 1, b = 13, c = 8, density = 0.42. Square = 250.00
+It is Parallelepiped: a = 8, b = 3, c = 2, density = 0.40. Square = 92.00
+It is Parallelepiped: a = 6, b = 4, c = 18, density = 0.93. Square = 408.00
+It is Parallelepiped: a = 3, b = 9, c = 6, density = 0.54. Square = 198.00
+It is Tetrahedron: edge = 20, density = 0.18. Square = 173.21
+It is Parallelepiped: a = 2, b = 15, c = 19, density = 0.32. Square = 706.00
+It is Tetrahedron: edge = 5, density = 0.52. Square = 10.83
+It is Sphere: radius = 20, density = 0.35. Square = 5026.55
+It is Tetrahedron: edge = 20, density = 0.26. Square = 173.21
+It is Tetrahedron: edge = 1, density = 0.22. Square = 0.43
+It is Parallelepiped: a = 13, b = 13, c = 11, density = 0.98. Square = 910.00
+It is Tetrahedron: edge = 18, density = 0.47. Square = 140.30
+It is Tetrahedron: edge = 14, density = 0.16. Square = 84.87
+It is Sphere: radius = 13, density = 0.03. Square = 2123.72
+It is Parallelepiped: a = 3, b = 11, c = 19, density = 0.30. Square = 598.00
+It is Sphere: radius = 2, density = 0.65. Square = 50.27
+It is Parallelepiped: a = 18, b = 14, c = 17, density = 0.58. Square = 1592.00
+It is Sphere: radius = 9, density = 0.72. Square = 1017.88
+It is Parallelepiped: a = 4, b = 11, c = 16, density = 0.47. Square = 568.00
+It is Parallelepiped: a = 3, b = 2, c = 20, density = 0.94. Square = 212.00
+It is Tetrahedron: edge = 19, density = 0.27. Square = 156.32
+It is Tetrahedron: edge = 14, density = 0.04. Square = 84.87
+It is Tetrahedron: edge = 9, density = 0.62. Square = 35.07
+It is Tetrahedron: edge = 16, density = 0.09. Square = 110.85
+It is Sphere: radius = 9, density = 0.61. Square = 1017.88
+It is Parallelepiped: a = 17, b = 11, c = 15, density = 0.36. Square = 1214.00
+It is Sphere: radius = 5, density = 0.97. Square = 314.16
+It is Tetrahedron: edge = 10, density = 0.30. Square = 43.30
+It is Sphere: radius = 7, density = 0.34. Square = 615.75
+It is Sphere: radius = 14, density = 0.39. Square = 2463.01
+It is Parallelepiped: a = 14, b = 2, c = 19, density = 0.20. Square = 664.00
+It is Tetrahedron: edge = 4, density = 0.71. Square = 6.93
+It is Parallelepiped: a = 2, b = 18, c = 3, density = 0.04. Square = 192.00
+It is Tetrahedron: edge = 12, density = 0.46. Square = 62.35
+It is Sphere: radius = 19, density = 0.89. Square = 4536.46
+It is Tetrahedron: edge = 11, density = 0.78. Square = 52.39
+It is Parallelepiped: a = 13, b = 2, c = 11, density = 0.54. Square = 382.00
+It is Tetrahedron: edge = 15, density = 0.26. Square = 97.43
+It is Sphere: radius = 10, density = 0.02. Square = 1256.64
+It is Sphere: radius = 20, density = 0.61. Square = 5026.55
+It is Tetrahedron: edge = 6, density = 0.21. Square = 15.59
+It is Sphere: radius = 9, density = 0.42. Square = 1017.88
+It is Tetrahedron: edge = 19, density = 0.88. Square = 156.32
+It is Parallelepiped: a = 13, b = 20, c = 13, density = 0.05. Square = 1378.00
+It is Parallelepiped: a = 6, b = 10, c = 15, density = 0.94. Square = 600.00
+It is Tetrahedron: edge = 15, density = 0.90. Square = 97.43
+It is Sphere: radius = 1, density = 0.93. Square = 12.57
+It is Parallelepiped: a = 14, b = 3, c = 16, density = 0.36. Square = 628.00
+It is Parallelepiped: a = 18, b = 2, c = 11, density = 0.28. Square = 512.00
+It is Tetrahedron: edge = 16, density = 0.66. Square = 110.85
+It is Tetrahedron: edge = 1, density = 0.17. Square = 0.43
+It is Sphere: radius = 12, density = 0.19. Square = 1809.56
+It is Sphere: radius = 2, density = 0.95. Square = 50.27
+It is Sphere: radius = 7, density = 0.12. Square = 615.75
+It is Parallelepiped: a = 4, b = 20, c = 12, density = 0.16. Square = 736.00
+It is Tetrahedron: edge = 3, density = 0.69. Square = 3.90
+It is Sphere: radius = 3, density = 0.37. Square = 113.10
+It is Parallelepiped: a = 3, b = 4, c = 11, density = 0.90. Square = 178.00
+It is Tetrahedron: edge = 15, density = 0.67. Square = 97.43
+It is Parallelepiped: a = 17, b = 5, c = 19, density = 0.49. Square = 1006.00
+It is Tetrahedron: edge = 2, density = 0.04. Square = 1.73
+It is Parallelepiped: a = 19, b = 6, c = 3, density = 0.47. Square = 378.00
+It is Parallelepiped: a = 6, b = 2, c = 14, density = 0.61. Square = 248.00
+It is Sphere: radius = 19, density = 0.06. Square = 4536.46
+It is Tetrahedron: edge = 2, density = 0.77. Square = 1.73
+It is Sphere: radius = 7, density = 0.07. Square = 615.75
+It is Sphere: radius = 19, density = 0.65. Square = 4536.46
+It is Sphere: radius = 3, density = 0.85. Square = 113.10
+It is Sphere: radius = 16, density = 0.94. Square = 3216.99
+It is Sphere: radius = 4, density = 0.71. Square = 201.06
+It is Parallelepiped: a = 17, b = 16, c = 19, density = 0.37. Square = 1798.00
+It is Sphere: radius = 5, density = 0.09. Square = 314.16
+It is Sphere: radius = 11, density = 0.02. Square = 1520.53
+It is Tetrahedron: edge = 15, density = 0.64. Square = 97.43
+It is Sphere: radius = 7, density = 0.54. Square = 615.75
+It is Tetrahedron: edge = 14, density = 0.52. Square = 84.87
+It is Parallelepiped: a = 14, b = 4, c = 11, density = 0.22. Square = 508.00
+It is Sphere: radius = 9, density = 0.73. Square = 1017.88
+It is Tetrahedron: edge = 6, density = 0.01. Square = 15.59
+It is Tetrahedron: edge = 4, density = 0.03. Square = 6.93
+It is Tetrahedron: edge = 4, density = 0.10. Square = 6.93
+It is Parallelepiped: a = 15, b = 18, c = 9, density = 0.13. Square = 1134.00
+It is Parallelepiped: a = 4, b = 13, c = 1, density = 0.54. Square = 138.00
+It is Parallelepiped: a = 14, b = 7, c = 4, density = 0.39. Square = 364.00
+It is Tetrahedron: edge = 1, density = 0.12. Square = 0.43
+It is Sphere: radius = 5, density = 0.37. Square = 314.16
+It is Parallelepiped: a = 14, b = 3, c = 4, density = 0.72. Square = 220.00
+It is Sphere: radius = 12, density = 0.64. Square = 1809.56
+It is Tetrahedron: edge = 10, density = 0.60. Square = 43.30
+It is Sphere: radius = 3, density = 0.15. Square = 113.10
+It is Sphere: radius = 14, density = 0.43. Square = 2463.01
+It is Sphere: radius = 10, density = 0.82. Square = 1256.64
+It is Parallelepiped: a = 17, b = 19, c = 13, density = 0.26. Square = 1582.00
+It is Sphere: radius = 8, density = 0.99. Square = 804.25
+It is Tetrahedron: edge = 10, density = 0.35. Square = 43.30
+It is Tetrahedron: edge = 13, density = 0.99. Square = 73.18
+It is Tetrahedron: edge = 19, density = 0.41. Square = 156.32
+It is Parallelepiped: a = 3, b = 9, c = 16, density = 0.44. Square = 438.00
+It is Sphere: radius = 6, density = 0.97. Square = 452.39
+It is Parallelepiped: a = 9, b = 14, c = 7, density = 0.47. Square = 574.00
+It is Parallelepiped: a = 5, b = 7, c = 1, density = 0.84. Square = 94.00
+It is Sphere: radius = 13, density = 0.94. Square = 2123.72
+It is Sphere: radius = 19, density = 0.56. Square = 4536.46
+It is Sphere: radius = 19, density = 0.90. Square = 4536.46
+It is Sphere: radius = 3, density = 0.12. Square = 113.10
+It is Parallelepiped: a = 3, b = 2, c = 9, density = 0.44. Square = 102.00
+It is Parallelepiped: a = 2, b = 17, c = 6, density = 0.31. Square = 296.00
+It is Sphere: radius = 17, density = 0.24. Square = 3631.68
+It is Parallelepiped: a = 7, b = 14, c = 19, density = 0.77. Square = 994.00
+It is Parallelepiped: a = 7, b = 12, c = 7, density = 0.10. Square = 434.00
+It is Sphere: radius = 1, density = 0.46. Square = 12.57
+It is Tetrahedron: edge = 9, density = 0.86. Square = 35.07
+It is Tetrahedron: edge = 9, density = 0.54. Square = 35.07
+It is Sphere: radius = 9, density = 0.06. Square = 1017.88
+It is Sphere: radius = 20, density = 0.28. Square = 5026.55
+It is Tetrahedron: edge = 14, density = 0.12. Square = 84.87
+It is Parallelepiped: a = 5, b = 4, c = 5, density = 0.47. Square = 130.00
+It is Sphere: radius = 8, density = 0.57. Square = 804.25
+It is Parallelepiped: a = 11, b = 6, c = 3, density = 0.46. Square = 234.00
+It is Parallelepiped: a = 16, b = 20, c = 16, density = 0.80. Square = 1792.00
+It is Tetrahedron: edge = 11, density = 0.27. Square = 52.39
+It is Tetrahedron: edge = 20, density = 0.62. Square = 173.21
+It is Tetrahedron: edge = 20, density = 0.81. Square = 173.21
+It is Sphere: radius = 15, density = 0.70. Square = 2827.43
+It is Sphere: radius = 9, density = 0.48. Square = 1017.88
+It is Sphere: radius = 19, density = 0.37. Square = 4536.46
+It is Parallelepiped: a = 20, b = 11, c = 8, density = 0.11. Square = 936.00
+It is Tetrahedron: edge = 17, density = 0.90. Square = 125.14
+It is Parallelepiped: a = 7, b = 4, c = 13, density = 0.18. Square = 342.00
+It is Parallelepiped: a = 5, b = 4, c = 20, density = 0.76. Square = 400.00
+It is Tetrahedron: edge = 10, density = 0.20. Square = 43.30
+It is Parallelepiped: a = 6, b = 14, c = 16, density = 0.76. Square = 808.00
+It is Parallelepiped: a = 19, b = 5, c = 2, density = 0.92. Square = 286.00
+It is Sphere: radius = 19, density = 0.89. Square = 4536.46
+It is Sphere: radius = 11, density = 0.76. Square = 1520.53
+It is Sphere: radius = 17, density = 0.55. Square = 3631.68
+It is Sphere: radius = 16, density = 0.10. Square = 3216.99
+It is Parallelepiped: a = 14, b = 13, c = 12, density = 0.19. Square = 1012.00
+It is Tetrahedron: edge = 11, density = 0.72. Square = 52.39
+It is Parallelepiped: a = 5, b = 10, c = 2, density = 0.24. Square = 160.00
+It is Sphere: radius = 11, density = 0.93. Square = 1520.53
+It is Tetrahedron: edge = 12, density = 0.48. Square = 62.35
+It is Parallelepiped: a = 10, b = 10, c = 5, density = 0.86. Square = 400.00
+It is Parallelepiped: a = 7, b = 14, c = 8, density = 0.49. Square = 532.00
+It is Parallelepiped: a = 5, b = 10, c = 8, density = 0.33. Square = 340.00
+It is Sphere: radius = 3, density = 0.87. Square = 113.10
+It is Sphere: radius = 16, density = 0.62. Square = 3216.99
+It is Parallelepiped: a = 7, b = 12, c = 5, density = 0.07. Square = 358.00
+It is Parallelepiped: a = 19, b = 7, c = 8, density = 0.30. Square = 682.00
+It is Sphere: radius = 4, density = 0.80. Square = 201.06
+It is Tetrahedron: edge = 6, density = 0.37. Square = 15.59
+It is Sphere: radius = 18, density = 0.25. Square = 4071.50
+It is Parallelepiped: a = 19, b = 17, c = 2, density = 0.05. Square = 790.00
+It is Sphere: radius = 16, density = 0.99. Square = 3216.99
+It is Sphere: radius = 19, density = 0.24. Square = 4536.46
+It is Tetrahedron: edge = 3, density = 0.20. Square = 3.90
+It is Sphere: radius = 19, density = 0.96. Square = 4536.46
+It is Sphere: radius = 17, density = 0.35. Square = 3631.68
+It is Sphere: radius = 14, density = 0.68. Square = 2463.01
+It is Sphere: radius = 1, density = 0.43. Square = 12.57
+It is Parallelepiped: a = 8, b = 20, c = 12, density = 0.20. Square = 992.00
+It is Parallelepiped: a = 13, b = 3, c = 1, density = 0.33. Square = 110.00
+It is Parallelepiped: a = 17, b = 6, c = 9, density = 0.87. Square = 618.00
+It is Sphere: radius = 16, density = 0.04. Square = 3216.99
+It is Sphere: radius = 5, density = 0.32. Square = 314.16
+It is Sphere: radius = 5, density = 0.87. Square = 314.16
+It is Tetrahedron: edge = 4, density = 0.83. Square = 6.93
+It is Parallelepiped: a = 5, b = 15, c = 17, density = 0.16. Square = 830.00
+It is Sphere: radius = 13, density = 0.62. Square = 2123.72
+It is Tetrahedron: edge = 6, density = 0.39. Square = 15.59
+It is Sphere: radius = 12, density = 0.95. Square = 1809.56
+It is Parallelepiped: a = 17, b = 19, c = 16, density = 0.44. Square = 1798.00
+It is Sphere: radius = 10, density = 0.37. Square = 1256.64
+It is Sphere: radius = 16, density = 0.59. Square = 3216.99
+It is Tetrahedron: edge = 2, density = 0.61. Square = 1.73
+It is Parallelepiped: a = 5, b = 3, c = 1, density = 0.85. Square = 46.00
+It is Sphere: radius = 4, density = 0.62. Square = 201.06
+It is Sphere: radius = 1, density = 0.76. Square = 12.57
+It is Tetrahedron: edge = 11, density = 0.43. Square = 52.39
+It is Parallelepiped: a = 20, b = 20, c = 6, density = 0.59. Square = 1280.00
+It is Sphere: radius = 17, density = 0.54. Square = 3631.68
+It is Tetrahedron: edge = 6, density = 0.14. Square = 15.59
+It is Parallelepiped: a = 7, b = 6, c = 5, density = 0.69. Square = 214.00
+It is Parallelepiped: a = 11, b = 6, c = 19, density = 0.32. Square = 778.00
+It is Tetrahedron: edge = 4, density = 0.57. Square = 6.93
+It is Parallelepiped: a = 3, b = 12, c = 2, density = 0.80. Square = 132.00
+It is Parallelepiped: a = 3, b = 13, c = 3, density = 0.92. Square = 174.00
+It is Sphere: radius = 6, density = 0.83. Square = 452.39
+It is Sphere: radius = 2, density = 0.03. Square = 50.27
+It is Tetrahedron: edge = 1, density = 0.62. Square = 0.43
+It is Parallelepiped: a = 4, b = 7, c = 9, density = 0.39. Square = 254.00
+It is Parallelepiped: a = 10, b = 6, c = 6, density = 0.28. Square = 312.00
+It is Sphere: radius = 4, density = 0.87. Square = 201.06
+It is Parallelepiped: a = 11, b = 15, c = 13, density = 0.52. Square = 1006.00
+It is Sphere: radius = 8, density = 0.80. Square = 804.25
+It is Sphere: radius = 1, density = 0.98. Square = 12.57
+It is Tetrahedron: edge = 15, density = 0.08. Square = 97.43
+It is Sphere: radius = 19, density = 0.01. Square = 4536.46
+It is Sphere: radius = 5, density = 0.94. Square = 314.16
+It is Tetrahedron: edge = 13, density = 0.26. Square = 73.18
+It is Parallelepiped: a = 11, b = 4, c = 5, density = 0.59. Square = 238.00
+It is Sphere: radius = 10, density = 0.78. Square = 1256.64
+It is Sphere: radius = 18, density = 0.15. Square = 4071.50
+It is Tetrahedron: edge = 20, density = 0.24. Square = 173.21
+It is Parallelepiped: a = 9, b = 20, c = 3, density = 0.09. Square = 534.00
+It is Parallelepiped: a = 20, b = 12, c = 15, density = 0.22. Square = 1440.00
+It is Parallelepiped: a = 20, b = 20, c = 12, density = 0.13. Square = 1760.00
+It is Tetrahedron: edge = 6, density = 0.68. Square = 15.59
+It is Tetrahedron: edge = 16, density = 0.86. Square = 110.85
+It is Parallelepiped: a = 15, b = 2, c = 19, density = 0.04. Square = 706.00
+It is Sphere: radius = 10, density = 0.18. Square = 1256.64
+It is Tetrahedron: edge = 18, density = 0.40. Square = 140.30
+It is Sphere: radius = 2, density = 0.56. Square = 50.27
+It is Parallelepiped: a = 2, b = 13, c = 14, density = 0.24. Square = 472.00
+It is Tetrahedron: edge = 4, density = 0.56. Square = 6.93
+It is Tetrahedron: edge = 15, density = 0.72. Square = 97.43
+It is Tetrahedron: edge = 18, density = 0.82. Square = 140.30
+It is Tetrahedron: edge = 18, density = 0.63. Square = 140.30
+It is Sphere: radius = 16, density = 0.65. Square = 3216.99
+It is Sphere: radius = 7, density = 0.20. Square = 615.75
+It is Sphere: radius = 15, density = 0.33. Square = 2827.43
+It is Tetrahedron: edge = 3, density = 0.62. Square = 3.90
+It is Sphere: radius = 14, density = 0.71. Square = 2463.01
+It is Parallelepiped: a = 6, b = 20, c = 9, density = 0.81. Square = 708.00
+It is Parallelepiped: a = 8, b = 5, c = 7, density = 0.88. Square = 262.00
+It is Parallelepiped: a = 5, b = 4, c = 9, density = 0.05. Square = 202.00
+It is Tetrahedron: edge = 1, density = 0.89. Square = 0.43
+It is Sphere: radius = 10, density = 0.25. Square = 1256.64
+It is Parallelepiped: a = 20, b = 10, c = 1, density = 0.58. Square = 460.00
+It is Tetrahedron: edge = 18, density = 0.56. Square = 140.30
+It is Sphere: radius = 2, density = 0.20. Square = 50.27
+It is Sphere: radius = 17, density = 0.20. Square = 3631.68
+It is Sphere: radius = 5, density = 0.21. Square = 314.16
+It is Tetrahedron: edge = 7, density = 0.16. Square = 21.22
+It is Tetrahedron: edge = 10, density = 0.35. Square = 43.30
+It is Sphere: radius = 16, density = 0.66. Square = 3216.99
+It is Tetrahedron: edge = 18, density = 0.71. Square = 140.30
+It is Sphere: radius = 7, density = 0.26. Square = 615.75
+It is Parallelepiped: a = 2, b = 17, c = 13, density = 0.69. Square = 562.00
+It is Tetrahedron: edge = 13, density = 0.21. Square = 73.18
+It is Parallelepiped: a = 11, b = 13, c = 10, density = 0.62. Square = 766.00
+It is Tetrahedron: edge = 4, density = 0.80. Square = 6.93
+It is Sphere: radius = 6, density = 0.11. Square = 452.39
+It is Sphere: radius = 19, density = 0.11. Square = 4536.46
+It is Sphere: radius = 17, density = 0.43. Square = 3631.68
+It is Sphere: radius = 4, density = 0.04. Square = 201.06
+It is Sphere: radius = 3, density = 0.98. Square = 113.10
+It is Tetrahedron: edge = 15, density = 0.92. Square = 97.43
+It is Sphere: radius = 8, density = 0.48. Square = 804.25
+It is Parallelepiped: a = 14, b = 11, c = 1, density = 0.63. Square = 358.00
+It is Sphere: radius = 12, density = 0.66. Square = 1809.56
+It is Sphere: radius = 13, density = 0.01. Square = 2123.72
+It is Parallelepiped: a = 4, b = 20, c = 11, density = 0.50. Square = 688.00
+It is Tetrahedron: edge = 19, density = 0.05. Square = 156.32
+It is Sphere: radius = 19, density = 0.37. Square = 4536.46
+It is Parallelepiped: a = 9, b = 18, c = 5, density = 0.70. Square = 594.00
+It is Tetrahedron: edge = 10, density = 0.80. Square = 43.30
+It is Sphere: radius = 12, density = 0.67. Square = 1809.56
+It is Sphere: radius = 19, density = 0.05. Square = 4536.46
+It is Parallelepiped: a = 13, b = 14, c = 4, density = 0.61. Square = 580.00
+It is Sphere: radius = 17, density = 0.07. Square = 3631.68
+It is Tetrahedron: edge = 3, density = 0.42. Square = 3.90
+It is Parallelepiped: a = 9, b = 9, c = 12, density = 0.51. Square = 594.00
+It is Parallelepiped: a = 7, b = 2, c = 5, density = 0.87. Square = 118.00
+It is Sphere: radius = 1, density = 0.76. Square = 12.57
+It is Tetrahedron: edge = 3, density = 0.11. Square = 3.90
+It is Sphere: radius = 2, density = 0.56. Square = 50.27
+It is Tetrahedron: edge = 18, density = 0.84. Square = 140.30
+It is Parallelepiped: a = 8, b = 8, c = 9, density = 0.15. Square = 416.00
+It is Sphere: radius = 4, density = 0.97. Square = 201.06
+It is Sphere: radius = 5, density = 0.93. Square = 314.16
+It is Tetrahedron: edge = 9, density = 0.07. Square = 35.07
+It is Sphere: radius = 12, density = 0.16. Square = 1809.56
+It is Sphere: radius = 15, density = 0.55. Square = 2827.43
+It is Tetrahedron: edge = 11, density = 0.97. Square = 52.39
+It is Sphere: radius = 13, density = 0.03. Square = 2123.72
+It is Sphere: radius = 18, density = 0.57. Square = 4071.50
+It is Parallelepiped: a = 13, b = 15, c = 8, density = 0.57. Square = 838.00
+It is Parallelepiped: a = 8, b = 3, c = 14, density = 0.11. Square = 356.00
+It is Parallelepiped: a = 2, b = 20, c = 8, density = 0.94. Square = 432.00
+It is Sphere: radius = 5, density = 0.63. Square = 314.16
+It is Sphere: radius = 9, density = 0.03. Square = 1017.88
+It is Sphere: radius = 1, density = 0.25. Square = 12.57
+It is Tetrahedron: edge = 18, density = 0.64. Square = 140.30
+It is Tetrahedron: edge = 11, density = 0.63. Square = 52.39
+It is Tetrahedron: edge = 10, density = 0.79. Square = 43.30
+It is Sphere: radius = 8, density = 0.56. Square = 804.25
+It is Sphere: radius = 5, density = 0.43. Square = 314.16
+It is Parallelepiped: a = 11, b = 4, c = 12, density = 0.05. Square = 448.00
+It is Tetrahedron: edge = 7, density = 0.39. Square = 21.22
+It is Tetrahedron: edge = 3, density = 0.20. Square = 3.90
+It is Parallelepiped: a = 3, b = 11, c = 4, density = 0.46. Square = 178.00
+It is Parallelepiped: a = 18, b = 20, c = 16, density = 0.61. Square = 1936.00
+It is Parallelepiped: a = 4, b = 19, c = 11, density = 0.96. Square = 658.00
+It is Tetrahedron: edge = 14, density = 0.65. Square = 84.87
+It is Tetrahedron: edge = 15, density = 0.23. Square = 97.43
+It is Tetrahedron: edge = 12, density = 0.35. Square = 62.35
+It is Sphere: radius = 4, density = 0.89. Square = 201.06
+It is Sphere: radius = 18, density = 0.42. Square = 4071.50
+It is Parallelepiped: a = 8, b = 10, c = 5, density = 0.16. Square = 340.00
+It is Tetrahedron: edge = 2, density = 0.71. Square = 1.73
+It is Sphere: radius = 3, density = 0.39. Square = 113.10
+It is Sphere: radius = 10, density = 0.50. Square = 1256.64
+It is Sphere: radius = 11, density = 0.84. Square = 1520.53
+It is Tetrahedron: edge = 6, density = 0.66. Square = 15.59
+It is Parallelepiped: a = 12, b = 15, c = 3, density = 0.77. Square = 522.00
+It is Parallelepiped: a = 6, b = 3, c = 14, density = 0.04. Square = 288.00
+It is Tetrahedron: edge = 2, density = 0.11. Square = 1.73
+It is Tetrahedron: edge = 14, density = 0.86. Square = 84.87
+It is Tetrahedron: edge = 10, density = 0.41. Square = 43.30
+It is Sphere: radius = 10, density = 0.15. Square = 1256.64
+It is Parallelepiped: a = 7, b = 8, c = 3, density = 0.96. Square = 202.00
+It is Tetrahedron: edge = 1, density = 0.65. Square = 0.43
+It is Tetrahedron: edge = 18, density = 0.96. Square = 140.30
+It is Tetrahedron: edge = 5, density = 0.17. Square = 10.83
+It is Tetrahedron: edge = 16, density = 0.85. Square = 110.85
+It is Parallelepiped: a = 10, b = 13, c = 3, density = 0.26. Square = 398.00
+It is Tetrahedron: edge = 1, density = 0.89. Square = 0.43
+It is Sphere: radius = 14, density = 0.47. Square = 2463.01
+It is Sphere: radius = 5, density = 0.15. Square = 314.16
+It is Sphere: radius = 19, density = 0.05. Square = 4536.46
+It is Parallelepiped: a = 1, b = 9, c = 13, density = 0.08. Square = 278.00
+It is Tetrahedron: edge = 7, density = 0.10. Square = 21.22
+It is Tetrahedron: edge = 1, density = 0.47. Square = 0.43
+It is Sphere: radius = 5, density = 0.18. Square = 314.16
+It is Parallelepiped: a = 16, b = 7, c = 14, density = 0.08. Square = 868.00
+It is Sphere: radius = 5, density = 0.68. Square = 314.16
+It is Sphere: radius = 8, density = 0.47. Square = 804.25
+It is Parallelepiped: a = 10, b = 11, c = 7, density = 0.57. Square = 514.00
+It is Sphere: radius = 17, density = 0.30. Square = 3631.68
+It is Sphere: radius = 4, density = 0.39. Square = 201.06
+It is Tetrahedron: edge = 6, density = 0.47. Square = 15.59
+It is Tetrahedron: edge = 20, density = 0.88. Square = 173.21
+It is Sphere: radius = 17, density = 0.17. Square = 3631.68
+It is Sphere: radius = 19, density = 0.74. Square = 4536.46
+It is Sphere: radius = 1, density = 0.47. Square = 12.57
+It is Sphere: radius = 4, density = 0.01. Square = 201.06
+It is Tetrahedron: edge = 20, density = 0.57. Square = 173.21
+It is Tetrahedron: edge = 2, density = 0.50. Square = 1.73
+It is Sphere: radius = 6, density = 0.62. Square = 452.39
+It is Sphere: radius = 1, density = 0.61. Square = 12.57
+It is Sphere: radius = 7, density = 0.89. Square = 615.75
+It is Sphere: radius = 17, density = 0.08. Square = 3631.68
+It is Sphere: radius = 4, density = 0.93. Square = 201.06
+It is Tetrahedron: edge = 20, density = 0.66. Square = 173.21
+It is Tetrahedron: edge = 18, density = 0.11. Square = 140.30
+It is Tetrahedron: edge = 14, density = 0.89. Square = 84.87
+It is Tetrahedron: edge = 6, density = 0.90. Square = 15.59
+It is Parallelepiped: a = 4, b = 2, c = 16, density = 0.27. Square = 208.00
+It is Tetrahedron: edge = 20, density = 0.41. Square = 173.21
+It is Sphere: radius = 7, density = 0.98. Square = 615.75
+It is Tetrahedron: edge = 4, density = 0.43. Square = 6.93
+It is Sphere: radius = 14, density = 0.67. Square = 2463.01
+It is Tetrahedron: edge = 20, density = 0.45. Square = 173.21
+It is Parallelepiped: a = 15, b = 11, c = 18, density = 0.23. Square = 1266.00
+It is Parallelepiped: a = 18, b = 13, c = 11, density = 0.45. Square = 1150.00
+It is Parallelepiped: a = 2, b = 5, c = 4, density = 0.94. Square = 76.00
+It is Sphere: radius = 18, density = 0.38. Square = 4071.50
+It is Parallelepiped: a = 18, b = 4, c = 11, density = 0.99. Square = 628.00
+It is Parallelepiped: a = 11, b = 10, c = 4, density = 0.21. Square = 388.00
+It is Sphere: radius = 7, density = 0.79. Square = 615.75
+It is Sphere: radius = 14, density = 0.83. Square = 2463.01
+It is Parallelepiped: a = 20, b = 13, c = 2, density = 0.05. Square = 652.00
+It is Sphere: radius = 9, density = 0.04. Square = 1017.88
+It is Parallelepiped: a = 9, b = 13, c = 6, density = 0.56. Square = 498.00
+It is Tetrahedron: edge = 19, density = 0.70. Square = 156.32
+It is Parallelepiped: a = 10, b = 7, c = 19, density = 0.54. Square = 786.00
+It is Parallelepiped: a = 19, b = 18, c = 11, density = 0.87. Square = 1498.00
+It is Parallelepiped: a = 16, b = 2, c = 16, density = 0.53. Square = 640.00
+It is Sphere: radius = 6, density = 0.70. Square = 452.39
+It is Sphere: radius = 3, density = 0.52. Square = 113.10
+It is Sphere: radius = 4, density = 0.18. Square = 201.06
+It is Sphere: radius = 1, density = 0.90. Square = 12.57
+It is Tetrahedron: edge = 8, density = 0.48. Square = 27.71
+It is Tetrahedron: edge = 17, density = 0.30. Square = 125.14
+It is Tetrahedron: edge = 7, density = 0.78. Square = 21.22
+It is Tetrahedron: edge = 12, density = 0.98. Square = 62.35
+It is Sphere: radius = 7, density = 0.47. Square = 615.75
+It is Tetrahedron: edge = 12, density = 0.93. Square = 62.35
+It is Parallelepiped: a = 12, b = 7, c = 3, density = 0.39. Square = 282.00
+It is Parallelepiped: a = 19, b = 3, c = 1, density = 0.46. Square = 158.00
+It is Sphere: radius = 13, density = 0.77. Square = 2123.72
+It is Parallelepiped: a = 16, b = 2, c = 14, density = 0.16. Square = 568.00
+It is Tetrahedron: edge = 6, density = 0.66. Square = 15.59
+It is Parallelepiped: a = 6, b = 15, c = 7, density = 0.16. Square = 474.00
+It is Sphere: radius = 14, density = 0.68. Square = 2463.01
+It is Sphere: radius = 3, density = 0.70. Square = 113.10
+It is Parallelepiped: a = 6, b = 4, c = 1, density = 0.21. Square = 68.00
+It is Parallelepiped: a = 12, b = 18, c = 17, density = 0.60. Square = 1452.00
+It is Sphere: radius = 15, density = 0.22. Square = 2827.43
+It is Parallelepiped: a = 5, b = 5, c = 7, density = 0.83. Square = 190.00
+It is Tetrahedron: edge = 4, density = 0.64. Square = 6.93
+It is Parallelepiped: a = 9, b = 10, c = 9, density = 0.78. Square = 522.00
+It is Sphere: radius = 9, density = 0.51. Square = 1017.88
+It is Tetrahedron: edge = 2, density = 0.32. Square = 1.73
+It is Sphere: radius = 19, density = 0.80. Square = 4536.46
+It is Parallelepiped: a = 17, b = 20, c = 1, density = 0.99. Square = 754.00
+It is Parallelepiped: a = 13, b = 14, c = 12, density = 0.18. Square = 1012.00
+It is Parallelepiped: a = 20, b = 12, c = 7, density = 0.19. Square = 928.00
+It is Parallelepiped: a = 17, b = 10, c = 18, density = 0.30. Square = 1312.00
+It is Tetrahedron: edge = 19, density = 0.91. Square = 156.32
+It is Sphere: radius = 13, density = 0.90. Square = 2123.72
+It is Sphere: radius = 6, density = 0.15. Square = 452.39
+It is Tetrahedron: edge = 7, density = 0.25. Square = 21.22
+It is Parallelepiped: a = 5, b = 2, c = 3, density = 0.64. Square = 62.00
+It is Tetrahedron: edge = 9, density = 0.87. Square = 35.07
+It is Parallelepiped: a = 15, b = 9, c = 7, density = 0.73. Square = 606.00
+It is Parallelepiped: a = 4, b = 8, c = 1, density = 0.01. Square = 88.00
+It is Tetrahedron: edge = 14, density = 0.40. Square = 84.87
+It is Sphere: radius = 16, density = 0.09. Square = 3216.99
+It is Tetrahedron: edge = 8, density = 0.42. Square = 27.71
+It is Parallelepiped: a = 13, b = 13, c = 16, density = 0.66. Square = 1170.00
+It is Tetrahedron: edge = 3, density = 0.05. Square = 3.90
+It is Parallelepiped: a = 20, b = 1, c = 13, density = 0.24. Square = 586.00
+It is Tetrahedron: edge = 15, density = 0.07. Square = 97.43
+It is Sphere: radius = 2, density = 0.20. Square = 50.27
+It is Tetrahedron: edge = 6, density = 0.77. Square = 15.59
+It is Sphere: radius = 2, density = 0.09. Square = 50.27
+It is Parallelepiped: a = 10, b = 11, c = 20, density = 0.18. Square = 1060.00
+It is Parallelepiped: a = 10, b = 17, c = 2, density = 0.30. Square = 448.00
+It is Sphere: radius = 14, density = 0.09. Square = 2463.01
+It is Tetrahedron: edge = 18, density = 0.38. Square = 140.30
+It is Parallelepiped: a = 1, b = 11, c = 8, density = 0.63. Square = 214.00
+It is Sphere: radius = 10, density = 0.43. Square = 1256.64
+It is Parallelepiped: a = 15, b = 3, c = 1, density = 0.22. Square = 126.00
+It is Parallelepiped: a = 16, b = 7, c = 5, density = 0.63. Square = 454.00
+It is Sphere: radius = 2, density = 0.31. Square = 50.27
+It is Tetrahedron: edge = 1, density = 0.87. Square = 0.43
+It is Sphere: radius = 2, density = 0.37. Square = 50.27
+It is Tetrahedron: edge = 11, density = 0.17. Square = 52.39
+It is Sphere: radius = 18, density = 0.73. Square = 4071.50
+It is Parallelepiped: a = 7, b = 5, c = 17, density = 0.10. Square = 478.00
+It is Tetrahedron: edge = 8, density = 0.94. Square = 27.71
+It is Parallelepiped: a = 7, b = 9, c = 10, density = 0.88. Square = 446.00
+It is Sphere: radius = 19, density = 0.86. Square = 4536.46
+It is Tetrahedron: edge = 17, density = 0.68. Square = 125.14
+It is Sphere: radius = 8, density = 0.81. Square = 804.25
+It is Parallelepiped: a = 1, b = 14, c = 20, density = 0.40. Square = 628.00
+It is Tetrahedron: edge = 18, density = 0.14. Square = 140.30
+It is Sphere: radius = 3, density = 0.59. Square = 113.10
+It is Sphere: radius = 16, density = 0.65. Square = 3216.99
+It is Tetrahedron: edge = 16, density = 0.43. Square = 110.85
+It is Parallelepiped: a = 5, b = 20, c = 15, density = 0.46. Square = 950.00
+It is Parallelepiped: a = 20, b = 3, c = 8, density = 0.20. Square = 488.00
+It is Sphere: radius = 18, density = 0.92. Square = 4071.50
+It is Parallelepiped: a = 16, b = 7, c = 11, density = 0.34. Square = 730.00
+It is Tetrahedron: edge = 19, density = 0.68. Square = 156.32
+It is Tetrahedron: edge = 19, density = 0.22. Square = 156.32
+It is Parallelepiped: a = 9, b = 7, c = 16, density = 0.82. Square = 638.00
+It is Parallelepiped: a = 2, b = 18, c = 9, density = 0.02. Square = 432.00
+It is Sphere: radius = 17, density = 0.09. Square = 3631.68
+It is Tetrahedron: edge = 17, density = 0.81. Square = 125.14
+It is Tetrahedron: edge = 9, density = 0.95. Square = 35.07
+It is Sphere: radius = 20, density = 0.38. Square = 5026.55
+It is Tetrahedron: edge = 17, density = 0.40. Square = 125.14
+It is Parallelepiped: a = 4, b = 20, c = 4, density = 0.40. Square = 352.00
+It is Sphere: radius = 16, density = 0.09. Square = 3216.99
+It is Parallelepiped: a = 11, b = 16, c = 20, density = 0.52. Square = 1432.00
+It is Sphere: radius = 17, density = 0.39. Square = 3631.68
+It is Parallelepiped: a = 19, b = 3, c = 15, density = 0.60. Square = 774.00
+It is Parallelepiped: a = 5, b = 16, c = 20, density = 0.50. Square = 1000.00
+It is Parallelepiped: a = 19, b = 18, c = 17, density = 0.49. Square = 1942.00
+It is Tetrahedron: edge = 18, density = 0.65. Square = 140.30
+It is Tetrahedron: edge = 7, density = 0.44. Square = 21.22
+It is Tetrahedron: edge = 7, density = 0.45. Square = 21.22
+It is Tetrahedron: edge = 1, density = 0.37. Square = 0.43
+It is Tetrahedron: edge = 9, density = 0.71. Square = 35.07
+It is Tetrahedron: edge = 19, density = 0.78. Square = 156.32
+It is Sphere: radius = 1, density = 0.45. Square = 12.57
+It is Sphere: radius = 12, density = 0.94. Square = 1809.56
+It is Tetrahedron: edge = 17, density = 0.40. Square = 125.14
+It is Parallelepiped: a = 9, b = 12, c = 14, density = 0.18. Square = 804.00
+It is Parallelepiped: a = 4, b = 1, c = 20, density = 0.35. Square = 208.00
+It is Parallelepiped: a = 16, b = 14, c = 14, density = 0.45. Square = 1288.00
+It is Tetrahedron: edge = 19, density = 0.72. Square = 156.32
+It is Sphere: radius = 9, density = 0.49. Square = 1017.88
+It is Sphere: radius = 3, density = 0.01. Square = 113.10
+It is Tetrahedron: edge = 7, density = 0.39. Square = 21.22
+It is Sphere: radius = 2, density = 0.95. Square = 50.27
+It is Parallelepiped: a = 16, b = 4, c = 16, density = 0.82. Square = 768.00
+It is Sphere: radius = 9, density = 0.65. Square = 1017.88
+It is Parallelepiped: a = 20, b = 9, c = 4, density = 0.77. Square = 592.00
+It is Sphere: radius = 16, density = 0.93. Square = 3216.99
+It is Parallelepiped: a = 15, b = 8, c = 9, density = 0.38. Square = 654.00
+It is Sphere: radius = 8, density = 0.48. Square = 804.25
+It is Parallelepiped: a = 13, b = 14, c = 8, density = 0.38. Square = 796.00
+It is Tetrahedron: edge = 20, density = 0.85. Square = 173.21
+It is Sphere: radius = 10, density = 0.16. Square = 1256.64
+It is Tetrahedron: edge = 5, density = 0.88. Square = 10.83
+It is Sphere: radius = 19, density = 0.71. Square = 4536.46
+It is Sphere: radius = 13, density = 0.48. Square = 2123.72
+It is Parallelepiped: a = 10, b = 19, c = 20, density = 0.29. Square = 1540.00
+It is Parallelepiped: a = 9, b = 7, c = 17, density = 0.05. Square = 670.00
+It is Parallelepiped: a = 15, b = 4, c = 6, density = 0.02. Square = 348.00
+It is Sphere: radius = 14, density = 0.65. Square = 2463.01
+It is Sphere: radius = 6, density = 0.97. Square = 452.39
+It is Sphere: radius = 13, density = 0.43. Square = 2123.72
+It is Parallelepiped: a = 1, b = 7, c = 3, density = 0.69. Square = 62.00
+It is Sphere: radius = 9, density = 0.24. Square = 1017.88
+It is Parallelepiped: a = 10, b = 15, c = 17, density = 0.60. Square = 1150.00
+It is Parallelepiped: a = 4, b = 6, c = 2, density = 0.57. Square = 88.00
+It is Parallelepiped: a = 1, b = 18, c = 9, density = 0.33. Square = 378.00
+It is Sphere: radius = 11, density = 0.67. Square = 1520.53
+It is Tetrahedron: edge = 4, density = 0.35. Square = 6.93
+It is Sphere: radius = 10, density = 0.48. Square = 1256.64
+It is Parallelepiped: a = 8, b = 11, c = 7, density = 0.34. Square = 442.00
+It is Parallelepiped: a = 12, b = 6, c = 12, density = 0.64. Square = 576.00
+It is Parallelepiped: a = 2, b = 20, c = 10, density = 0.32. Square = 520.00
+It is Sphere: radius = 3, density = 0.55. Square = 113.10
+It is Sphere: radius = 10, density = 0.57. Square = 1256.64
+It is Parallelepiped: a = 10, b = 4, c = 7, density = 0.33. Square = 276.00
+It is Parallelepiped: a = 13, b = 8, c = 17, density = 0.09. Square = 922.00
+It is Tetrahedron: edge = 9, density = 0.08. Square = 35.07
+It is Tetrahedron: edge = 16, density = 0.92. Square = 110.85
+It is Parallelepiped: a = 4, b = 10, c = 16, density = 0.77. Square = 528.00
+It is Sphere: radius = 16, density = 0.17. Square = 3216.99
+It is Tetrahedron: edge = 20, density = 0.64. Square = 173.21
+It is Tetrahedron: edge = 7, density = 0.47. Square = 21.22
+It is Parallelepiped: a = 14, b = 11, c = 17, density = 0.10. Square = 1158.00
+It is Tetrahedron: edge = 17, density = 0.59. Square = 125.14
+It is Sphere: radius = 9, density = 0.01. Square = 1017.88
+It is Tetrahedron: edge = 13, density = 0.91. Square = 73.18
+It is Sphere: radius = 15, density = 0.98. Square = 2827.43
+It is Parallelepiped: a = 15, b = 9, c = 3, density = 0.86. Square = 414.00
+It is Tetrahedron: edge = 3, density = 0.92. Square = 3.90
+It is Tetrahedron: edge = 7, density = 0.24. Square = 21.22
+It is Parallelepiped: a = 4, b = 3, c = 13, density = 0.17. Square = 206.00
+It is Parallelepiped: a = 7, b = 14, c = 15, density = 0.22. Square = 826.00
+It is Tetrahedron: edge = 12, density = 0.38. Square = 62.35
+It is Tetrahedron: edge = 3, density = 0.69. Square = 3.90
+It is Parallelepiped: a = 17, b = 8, c = 14, density = 0.05. Square = 972.00
+It is Parallelepiped: a = 7, b = 2, c = 11, density = 0.19. Square = 226.00
+It is Sphere: radius = 13, density = 0.96. Square = 2123.72
+It is Tetrahedron: edge = 11, density = 0.33. Square = 52.39
+It is Parallelepiped: a = 15, b = 13, c = 18, density = 0.55. Square = 1398.00
+It is Sphere: radius = 18, density = 0.20. Square = 4071.50
+It is Parallelepiped: a = 20, b = 3, c = 19, density = 0.54. Square = 994.00
+It is Parallelepiped: a = 20, b = 2, c = 15, density = 0.68. Square = 740.00
+It is Parallelepiped: a = 15, b = 17, c = 2, density = 0.13. Square = 638.00
+It is Sphere: radius = 11, density = 0.92. Square = 1520.53
+It is Tetrahedron: edge = 18, density = 0.88. Square = 140.30
+It is Tetrahedron: edge = 16, density = 0.19. Square = 110.85
+It is Tetrahedron: edge = 10, density = 0.41. Square = 43.30
+It is Tetrahedron: edge = 15, density = 0.95. Square = 97.43
+It is Tetrahedron: edge = 20, density = 0.72. Square = 173.21
+It is Parallelepiped: a = 15, b = 8, c = 18, density = 0.76. Square = 1068.00
+It is Sphere: radius = 11, density = 0.59. Square = 1520.53
+It is Parallelepiped: a = 8, b = 1, c = 11, density = 0.48. Square = 214.00
+It is Sphere: radius = 18, density = 0.54. Square = 4071.50
+It is Sphere: radius = 20, density = 0.54. Square = 5026.55
+It is Tetrahedron: edge = 13, density = 0.54. Square = 73.18
+It is Parallelepiped: a = 18, b = 20, c = 18, density = 0.48. Square = 2088.00
+It is Tetrahedron: edge = 4, density = 0.70. Square = 6.93
+It is Sphere: radius = 7, density = 0.57. Square = 615.75
+It is Tetrahedron: edge = 13, density = 0.57. Square = 73.18
+It is Sphere: radius = 13, density = 0.82. Square = 2123.72
+It is Sphere: radius = 6, density = 0.97. Square = 452.39
+It is Tetrahedron: edge = 13, density = 0.77. Square = 73.18
+It is Parallelepiped: a = 13, b = 1, c = 9, density = 0.18. Square = 278.00
+It is Sphere: radius = 1, density = 0.90. Square = 12.57
+It is Parallelepiped: a = 14, b = 12, c = 10, density = 0.18. Square = 856.00
+It is Parallelepiped: a = 9, b = 8, c = 8, density = 0.85. Square = 416.00
+It is Tetrahedron: edge = 11, density = 0.47. Square = 52.39
+It is Sphere: radius = 16, density = 0.52. Square = 3216.99
+It is Sphere: radius = 12, density = 0.32. Square = 1809.56
+It is Tetrahedron: edge = 16, density = 0.58. Square = 110.85
+It is Parallelepiped: a = 5, b = 9, c = 4, density = 0.48. Square = 202.00
+It is Tetrahedron: edge = 9, density = 0.89. Square = 35.07
+It is Sphere: radius = 11, density = 0.94. Square = 1520.53
+It is Sphere: radius = 10, density = 0.27. Square = 1256.64
+It is Tetrahedron: edge = 4, density = 0.63. Square = 6.93
+It is Tetrahedron: edge = 1, density = 0.51. Square = 0.43
+It is Tetrahedron: edge = 15, density = 0.96. Square = 97.43
+It is Sphere: radius = 20, density = 0.74. Square = 5026.55
+It is Sphere: radius = 20, density = 0.22. Square = 5026.55
+It is Sphere: radius = 6, density = 0.65. Square = 452.39
+It is Tetrahedron: edge = 1, density = 0.48. Square = 0.43
+It is Parallelepiped: a = 6, b = 4, c = 13, density = 0.63. Square = 308.00
+It is Sphere: radius = 5, density = 0.61. Square = 314.16
+It is Tetrahedron: edge = 5, density = 0.90. Square = 10.83
+It is Sphere: radius = 17, density = 0.37. Square = 3631.68
+It is Parallelepiped: a = 14, b = 7, c = 3, density = 0.93. Square = 322.00
+It is Tetrahedron: edge = 17, density = 0.80. Square = 125.14
+It is Tetrahedron: edge = 16, density = 0.49. Square = 110.85
+It is Sphere: radius = 8, density = 0.74. Square = 804.25
+It is Tetrahedron: edge = 17, density = 0.42. Square = 125.14
+It is Parallelepiped: a = 17, b = 16, c = 5, density = 0.83. Square = 874.00
+It is Sphere: radius = 14, density = 0.82. Square = 2463.01
+It is Tetrahedron: edge = 19, density = 0.18. Square = 156.32
+It is Sphere: radius = 2, density = 0.92. Square = 50.27
+It is Tetrahedron: edge = 12, density = 0.95. Square = 62.35
+It is Parallelepiped: a = 16, b = 7, c = 17, density = 0.55. Square = 1006.00
+It is Tetrahedron: edge = 13, density = 0.56. Square = 73.18
+It is Parallelepiped: a = 3, b = 10, c = 8, density = 0.76. Square = 268.00
+It is Parallelepiped: a = 2, b = 11, c = 2, density = 0.30. Square = 96.00
+It is Sphere: radius = 2, density = 0.74. Square = 50.27
+It is Tetrahedron: edge = 18, density = 0.49. Square = 140.30
+It is Parallelepiped: a = 10, b = 4, c = 4, density = 0.08. Square = 192.00
+It is Sphere: radius = 5, density = 0.87. Square = 314.16
+It is Parallelepiped: a = 11, b = 8, c = 16, density = 0.38. Square = 784.00
+It is Sphere: radius = 17, density = 0.86. Square = 3631.68
+It is Sphere: radius = 6, density = 0.33. Square = 452.39
+It is Parallelepiped: a = 9, b = 2, c = 20, density = 0.36. Square = 476.00
+It is Parallelepiped: a = 2, b = 19, c = 17, density = 0.87. Square = 790.00
+It is Tetrahedron: edge = 7, density = 0.03. Square = 21.22
+It is Sphere: radius = 7, density = 0.80. Square = 615.75
+It is Sphere: radius = 16, density = 0.09. Square = 3216.99
+It is Tetrahedron: edge = 14, density = 0.87. Square = 84.87
+It is Tetrahedron: edge = 2, density = 0.42. Square = 1.73
+It is Parallelepiped: a = 6, b = 6, c = 16, density = 0.89. Square = 456.00
+It is Sphere: radius = 13, density = 0.80. Square = 2123.72
+It is Sphere: radius = 9, density = 0.77. Square = 1017.88
+It is Sphere: radius = 4, density = 0.71. Square = 201.06
+It is Sphere: radius = 12, density = 0.29. Square = 1809.56
+It is Tetrahedron: edge = 16, density = 0.40. Square = 110.85
+It is Parallelepiped: a = 19, b = 8, c = 3, density = 0.25. Square = 466.00
+It is Tetrahedron: edge = 16, density = 0.66. Square = 110.85
+It is Sphere: radius = 14, density = 0.46. Square = 2463.01
+It is Tetrahedron: edge = 16, density = 0.65. Square = 110.85
+It is Tetrahedron: edge = 16, density = 0.36. Square = 110.85
+It is Tetrahedron: edge = 5, density = 0.61. Square = 10.83
+It is Sphere: radius = 7, density = 0.96. Square = 615.75
+It is Tetrahedron: edge = 7, density = 0.03. Square = 21.22
+It is Tetrahedron: edge = 19, density = 0.12. Square = 156.32
+It is Tetrahedron: edge = 9, density = 0.12. Square = 35.07
+It is Parallelepiped: a = 18, b = 4, c = 19, density = 0.01. Square = 980.00
+It is Parallelepiped: a = 11, b = 12, c = 4, density = 0.74. Square = 448.00
+It is Parallelepiped: a = 3, b = 17, c = 20, density = 0.70. Square = 902.00
+It is Parallelepiped: a = 5, b = 6, c = 6, density = 0.03. Square = 192.00
+It is Parallelepiped: a = 1, b = 20, c = 2, density = 0.10. Square = 124.00
+It is Parallelepiped: a = 18, b = 8, c = 9, density = 0.89. Square = 756.00
+It is Parallelepiped: a = 16, b = 4, c = 19, density = 0.82. Square = 888.00
+It is Parallelepiped: a = 9, b = 5, c = 7, density = 0.14. Square = 286.00
+It is Sphere: radius = 5, density = 0.66. Square = 314.16
+It is Tetrahedron: edge = 17, density = 0.98. Square = 125.14
+It is Tetrahedron: edge = 9, density = 0.10. Square = 35.07
+It is Tetrahedron: edge = 12, density = 0.73. Square = 62.35
+It is Sphere: radius = 17, density = 0.22. Square = 3631.68
+It is Parallelepiped: a = 7, b = 12, c = 8, density = 0.45. Square = 472.00
+It is Parallelepiped: a = 14, b = 5, c = 8, density = 0.43. Square = 444.00
+It is Parallelepiped: a = 17, b = 1, c = 5, density = 0.08. Square = 214.00
+It is Tetrahedron: edge = 15, density = 0.41. Square = 97.43
+It is Sphere: radius = 1, density = 0.01. Square = 12.57
+It is Parallelepiped: a = 6, b = 4, c = 7, density = 0.61. Square = 188.00
+It is Sphere: radius = 16, density = 0.89. Square = 3216.99
+It is Tetrahedron: edge = 13, density = 0.46. Square = 73.18
+It is Sphere: radius = 16, density = 0.13. Square = 3216.99
+It is Tetrahedron: edge = 5, density = 0.35. Square = 10.83
+It is Tetrahedron: edge = 4, density = 0.49. Square = 6.93
+It is Tetrahedron: edge = 3, density = 0.98. Square = 3.90
+It is Parallelepiped: a = 8, b = 15, c = 18, density = 0.17. Square = 1068.00
+It is Sphere: radius = 15, density = 0.45. Square = 2827.43
+It is Tetrahedron: edge = 15, density = 0.27. Square = 97.43
+It is Sphere: radius = 9, density = 0.91. Square = 1017.88
+It is Tetrahedron: edge = 5, density = 0.27. Square = 10.83
+It is Tetrahedron: edge = 16, density = 0.62. Square = 110.85
+It is Sphere: radius = 11, density = 0.37. Square = 1520.53
+It is Sphere: radius = 2, density = 0.69. Square = 50.27
+It is Parallelepiped: a = 11, b = 6, c = 19, density = 0.72. Square = 778.00
+It is Sphere: radius = 18, density = 0.11. Square = 4071.50
+It is Tetrahedron: edge = 1, density = 0.34. Square = 0.43
+It is Sphere: radius = 4, density = 0.13. Square = 201.06
+It is Tetrahedron: edge = 14, density = 0.18. Square = 84.87
+It is Sphere: radius = 9, density = 0.52. Square = 1017.88
+It is Tetrahedron: edge = 15, density = 0.64. Square = 97.43
+It is Parallelepiped: a = 3, b = 14, c = 8, density = 0.26. Square = 356.00
+It is Sphere: radius = 20, density = 0.69. Square = 5026.55
+It is Sphere: radius = 6, density = 0.02. Square = 452.39
+It is Tetrahedron: edge = 8, density = 0.36. Square = 27.71
+It is Tetrahedron: edge = 9, density = 0.27. Square = 35.07
+It is Parallelepiped: a = 2, b = 1, c = 13, density = 0.61. Square = 82.00
+It is Tetrahedron: edge = 19, density = 0.66. Square = 156.32
+It is Sphere: radius = 19, density = 0.03. Square = 4536.46
+It is Sphere: radius = 7, density = 0.14. Square = 615.75
+It is Sphere: radius = 11, density = 0.94. Square = 1520.53
+It is Parallelepiped: a = 1, b = 8, c = 8, density = 0.52. Square = 160.00
+It is Sphere: radius = 13, density = 0.64. Square = 2123.72
+It is Parallelepiped: a = 13, b = 6, c = 6, density = 0.51. Square = 384.00
+It is Sphere: radius = 8, density = 0.12. Square = 804.25
+It is Tetrahedron: edge = 11, density = 0.76. Square = 52.39
+It is Sphere: radius = 4, density = 0.73. Square = 201.06
+It is Sphere: radius = 15, density = 0.18. Square = 2827.43
+It is Parallelepiped: a = 11, b = 8, c = 8, density = 0.79. Square = 480.00
+It is Sphere: radius = 8, density = 0.53. Square = 804.25
+It is Tetrahedron: edge = 6, density = 0.13. Square = 15.59
+It is Sphere: radius = 8, density = 0.21. Square = 804.25
+It is Sphere: radius = 2, density = 0.56. Square = 50.27
+It is Tetrahedron: edge = 12, density = 0.50. Square = 62.35
+It is Sphere: radius = 3, density = 0.37. Square = 113.10
+It is Sphere: radius = 5, density = 0.42. Square = 314.16
+It is Tetrahedron: edge = 20, density = 0.06. Square = 173.21
+It is Sphere: radius = 5, density = 0.10. Square = 314.16
+It is Sphere: radius = 10, density = 0.23. Square = 1256.64
+It is Tetrahedron: edge = 12, density = 0.08. Square = 62.35
+It is Sphere: radius = 14, density = 0.75. Square = 2463.01
+It is Sphere: radius = 11, density = 0.04. Square = 1520.53
+It is Tetrahedron: edge = 15, density = 0.12. Square = 97.43
+It is Tetrahedron: edge = 10, density = 0.80. Square = 43.30
+It is Tetrahedron: edge = 17, density = 0.59. Square = 125.14
+It is Tetrahedron: edge = 12, density = 0.22. Square = 62.35
+It is Sphere: radius = 20, density = 0.27. Square = 5026.55
+It is Tetrahedron: edge = 14, density = 0.14. Square = 84.87
+It is Parallelepiped: a = 18, b = 3, c = 18, density = 0.22. Square = 864.00
+It is Sphere: radius = 2, density = 0.15. Square = 50.27
+It is Parallelepiped: a = 4, b = 9, c = 4, density = 0.41. Square = 176.00
+It is Parallelepiped: a = 18, b = 6, c = 7, density = 0.65. Square = 552.00
+It is Parallelepiped: a = 19, b = 1, c = 5, density = 0.81. Square = 238.00
+It is Parallelepiped: a = 4, b = 1, c = 10, density = 0.31. Square = 108.00
+It is Sphere: radius = 5, density = 0.37. Square = 314.16
+It is Tetrahedron: edge = 1, density = 0.96. Square = 0.43
+It is Parallelepiped: a = 15, b = 11, c = 6, density = 0.29. Square = 642.00
+It is Sphere: radius = 12, density = 0.29. Square = 1809.56
+It is Parallelepiped: a = 6, b = 14, c = 14, density = 0.81. Square = 728.00
+It is Sphere: radius = 3, density = 0.44. Square = 113.10
+It is Parallelepiped: a = 8, b = 7, c = 6, density = 0.35. Square = 292.00
+It is Sphere: radius = 13, density = 0.25. Square = 2123.72
+It is Sphere: radius = 20, density = 0.55. Square = 5026.55
+It is Sphere: radius = 9, density = 0.15. Square = 1017.88
+It is Tetrahedron: edge = 5, density = 0.85. Square = 10.83
+It is Parallelepiped: a = 2, b = 1, c = 10, density = 0.62. Square = 64.00
+It is Tetrahedron: edge = 14, density = 0.08. Square = 84.87
+It is Sphere: radius = 3, density = 0.34. Square = 113.10
+It is Parallelepiped: a = 4, b = 18, c = 6, density = 0.29. Square = 408.00
+It is Tetrahedron: edge = 16, density = 0.92. Square = 110.85
+It is Sphere: radius = 8, density = 0.62. Square = 804.25
+It is Tetrahedron: edge = 17, density = 0.95. Square = 125.14
