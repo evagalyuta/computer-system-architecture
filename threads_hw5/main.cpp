@@ -2,7 +2,7 @@
 #include <pthread.h>
 #include <unistd.h>
 #include <semaphore.h>
-#include <cstring>
+#include <string.h>
 #include <sys/time.h>
 
 const int MAX_SIZE = 2;
