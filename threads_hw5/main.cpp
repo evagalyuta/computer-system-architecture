@@ -75,6 +75,7 @@ void *Dealer(void *param) {
 	if (iterations <= 0) {
 	  return nullptr;
 	}
+	sleep(3);
 	if (!isWaiting) {
 	  pthread_mutex_lock(&mutexD);
 	  sem_wait(&empty);
@@ -89,7 +90,7 @@ void *Dealer(void *param) {
 			 getNameProduct(bufferProducts[1]).c_str());
 
 	  isWaiting = true;
-	  sleep(6);
+	  sleep(3);
 	}
   }
 }
@@ -101,7 +102,7 @@ void *SmokerTabacco(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 1) {
-	  sleep(3);
+	  sleep(1);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -126,7 +127,7 @@ void *SmokerPaper(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 2) {
-	  sleep(3);
+	  sleep(1);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -151,7 +152,7 @@ void *SmokerMatch(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 3) {
-	  sleep(3);
+	  sleep(1);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -195,12 +196,11 @@ void inputRandom(int index) {
 }
 
 int main(int argc, char *argv[]) {
-  //time_t start = time(0); // Set timer.
-  struct timeval time;
-  gettimeofday(&time, NULL);
+  struct timeval time{};
+  gettimeofday(&time, nullptr);
   int64_t s1 = (int64_t)(time.tv_sec) * 1000;
   int64_t s2 = (time.tv_usec / 1000);
-  long long start = s1 + s2;
+  long long start = s1 + s2;   // Set timer.
 
   if (argc != 3) {
 	errMessage1();
@@ -252,12 +252,10 @@ int main(int argc, char *argv[]) {
   pthread_join(threadPaper, nullptr);
   pthread_join(threadMatch, nullptr);
 
-  //clock_t end = clock(); // End time.
-  //time_t end = time(0);
-  gettimeofday(&time, NULL);
+  gettimeofday(&time, nullptr);
   s1 = (int64_t)(time.tv_sec) * 1000;
   s2 = (time.tv_usec / 1000);
-  long long end = s1 + s2;
+  long long end = s1 + s2; // End time.
 
   double total_time = static_cast<double>(end - start) / 1000;
   printf("%s %lf %s \n", "Total time for program:", total_time, "seconds");
