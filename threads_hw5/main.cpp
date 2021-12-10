@@ -90,7 +90,7 @@ void *Dealer(void *param) {
 			 getNameProduct(bufferProducts[1]).c_str());
 
 	  isWaiting = true;
-	  sleep(3);
+	  sleep(4);
 	}
   }
 }
@@ -102,7 +102,7 @@ void *SmokerTabacco(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 1) {
-	  sleep(1);
+	  sleep(2);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -127,7 +127,7 @@ void *SmokerPaper(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 2) {
-	  sleep(1);
+	  sleep(2);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -152,7 +152,7 @@ void *SmokerMatch(void *param) {
 	  return nullptr;
 	}
 	if (chooseSmoker() == 3) {
-	  sleep(1);
+	  sleep(2);
 
 	  pthread_mutex_lock(&mutexF);
 	  sem_wait(&full);
@@ -196,10 +196,10 @@ void inputRandom(int index) {
 }
 
 int main(int argc, char *argv[]) {
-  struct timeval time{};
-  gettimeofday(&time, nullptr);
-  int64_t s1 = (int64_t)(time.tv_sec) * 1000;
-  int64_t s2 = (time.tv_usec / 1000);
+  struct timeval timeval{};
+  gettimeofday(&timeval, nullptr);
+  int64_t s1 = (int64_t)(timeval.tv_sec) * 1000;
+  int64_t s2 = (timeval.tv_usec / 1000);
   long long start = s1 + s2;   // Set timer.
 
   if (argc != 3) {
@@ -224,12 +224,13 @@ int main(int argc, char *argv[]) {
 	fclose(file);
   } else if (!strcmp(argv[1], "-n")) {
 	iterations = atoi(argv[2]);
-	if ((iterations < 1) || (iterations > 10000)) {
+	if ((iterations < 1) || (iterations > 30)) {
 	  printf("incorrect number of iterations = %d", iterations);
-	  printf(". Set 0 < number <= 10000\n");
+	  printf(". Set 0 < number <= 30\n");
 	  return 3;
 	}
 	allProducts = new std::pair<int, int>[iterations];
+	srand(static_cast<unsigned int>(time(nullptr)));
 	inputRandom(iterations);
   } else {
 	errMessage2();
@@ -252,13 +253,13 @@ int main(int argc, char *argv[]) {
   pthread_join(threadPaper, nullptr);
   pthread_join(threadMatch, nullptr);
 
-  gettimeofday(&time, nullptr);
-  s1 = (int64_t)(time.tv_sec) * 1000;
-  s2 = (time.tv_usec / 1000);
-  long long end = s1 + s2; // End time.
+  gettimeofday(&timeval, nullptr);
+  s1 = (int64_t)(timeval.tv_sec) * 1000;
+  s2 = (timeval.tv_usec / 1000);
+  long long end = s1 + s2; // End timeval.
 
   double total_time = static_cast<double>(end - start) / 1000;
-  printf("%s %lf %s \n", "Total time for program:", total_time, "seconds");
+  printf("%s %lf %s \n", "Total timeval for program:", total_time, "seconds");
   printf("Stop\n");
   delete[] allProducts;
   return 0;
